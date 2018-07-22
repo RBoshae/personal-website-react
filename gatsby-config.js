@@ -1,6 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Rick Boshae',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: [
+    // Shorcut for adding plugins without options.
+    'gatsby-plugin-react-helmet',
+    {
+        // Standard plugin with options
+        resolve: 'gatsby-plugin-typography',
+        options: {
+          pathToConfigModule: 'src/utils/typography.js',
+        },
+    },
+  ],
 }
