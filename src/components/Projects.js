@@ -5,6 +5,12 @@ import ProjectItem from './ProjectItem';
 
 import Huddle from "../assets/images/projects/Huddle/Huddle-Logo-700x400.png";
 
+const projectsContainer = {
+  flexDirection: 'row',
+  flexWrap: 'wrap'
+
+};
+
 class Projects extends React.Component {
   constructor() {
     super();
@@ -99,25 +105,18 @@ class Projects extends React.Component {
     if(this.state.projects){
       projectItems = this.state.projects.map( (project, i) => {
         return (
-          <td key={project.title}>
-            <ProjectItem project={project}/>
-          </td>
+            <ProjectItem key={project.title} project={project}/>
+
         );
       });
     }
     console.log(projectItems);
     return (
       <section id="projects">
-        <div className="Projects">
           <h1>Projects</h1>
-          <table>
-            <tbody>
-              <tr>
-                {projectItems}
-              </tr>
-            </tbody>
-          </table>
-        </div>
+          <div style={projectsContainer} className="Projects">
+            {projectItems}
+          </div>
       </section>
     );
   }
