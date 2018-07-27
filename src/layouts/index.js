@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link';
-import Header from '../components/header'
+import Navbar from '../components/Navbar'
 import './index.css'
 
 const ListLink = props =>
@@ -35,7 +35,7 @@ const Layout = ({ children, data }) => (
           <h3 style={{ display: 'inline'}}>{data.site.siteMetadata.title}</h3>
         </Link>
         <ul style={{ listStyle: 'none', float: 'right'}}>
-          <ListLink to="/">Portfolio</ListLink>
+          <ListLink to="/">Projects</ListLink>
           <ListLink to="/">Resume</ListLink>
           <ListLink to="/">Blog</ListLink>
           <ListLink to="/">Contact</ListLink>
