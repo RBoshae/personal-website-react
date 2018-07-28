@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-const cardStyle = {
+const projectItemStyle = {
   boxShadow: '0 4px 8px 0 regba(0, 0, 0, 0.2)',
-  width: '50%',
+  width: '16rem',
+  height: '18rem',
   margin: 'auto',
-  textAlign: 'center',
+  textAlign: 'left',
   boxSizing: 'border-box',
   paddingLeft: '8px',
   paddingRight: '8px',
@@ -23,7 +24,7 @@ class ProjectItem extends React.Component {
     return (
       <div className="columns project-item">
         <div className="item-wrap">
-          <div style={cardStyle} >
+          <div style={projectItemStyle} >
             <img src={this.props.project.pictureLink} alt="Project Picture" />
             <h3>{this.props.project.title}</h3>
             <p style={pStyle}>{this.props.project.languages}</p>

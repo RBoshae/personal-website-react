@@ -6,8 +6,7 @@ import ProjectItem from './ProjectItem';
 import Huddle from "../assets/images/projects/Huddle/Huddle-Logo-700x400.png";
 
 const projectsContainer = {
-  flexDirection: 'row',
-  flexWrap: 'wrap'
+  position: 'absolute'
 
 };
 
@@ -20,7 +19,7 @@ class Projects extends React.Component {
     }
   }
 
-  //IDEA: Implement a scrapper to grab projects from GitHub
+  //IDEA: Implement a scraper to grab projects from GitHub automatically.
   getProjects(){
     this.setState({ projects:[
       {
@@ -111,7 +110,7 @@ class Projects extends React.Component {
       projectItems = this.state.projects.map( (project) => {
         // console.log(projectItems);
         return (
-          <td key={project.title}>
+          <td key={project.title} style={{paddingLeft: '.25rem', paddingRight: '.25rem'}}>
             <ProjectItem project={project}/>
           </td>
         );
@@ -167,7 +166,7 @@ class Projects extends React.Component {
     return (
       <section id="projects">
           <h1>Projects</h1>
-          <table>
+          <table id="projectTable">
             <thead>
             </thead>
             <tbody>
