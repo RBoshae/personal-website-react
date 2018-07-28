@@ -11,6 +11,7 @@ const projectsContainer = {
 
 };
 
+
 class Projects extends React.Component {
   constructor() {
     super();
@@ -95,28 +96,84 @@ class Projects extends React.Component {
     ]});
   }
 
+
+
   componentWillMount(){
     this.getProjects();
   }
 
   render() {
+    // Generate array of projects
     let projectItems;
-    // console.log(this.state); // Debugging
+    // console.log('Before Map');
+    // console.log(this.state.projects);
     if(this.state.projects){
-      projectItems = this.state.projects.map( (project, i) => {
+      projectItems = this.state.projects.map( (project) => {
+        // console.log(projectItems);
         return (
-            <ProjectItem key={project.title} project={project}/>
-
+          <td key={project.title}>
+            <ProjectItem project={project}/>
+          </td>
         );
       });
     }
-    console.log(projectItems);
+
+    // Transform array of projects to a table a of projects
+
+    // Start with creating rows
+    let projectItemRows = projectItems.reduce(function (rows, projectItem, i) {
+      let rowIndex = Math.floor(i/3);
+      if(i % 3 == 0) {
+        rows[rowIndex] = [projectItem]
+      } else {
+        rows[rowIndex].push(projectItem)
+      }
+      return rows;
+    }, [])
+
+    console.log('Hello', projectItemRows);
+    // create table
+    let projectItemTable
+    if(projectItemRows){
+      projectItemTable = projectItemRows.map( (projectItemRow, i) => {
+        // console.log(projectItems);
+        return (
+          <tr key={i}>
+            {projectItemRow}
+          </tr>
+        );
+      });
+    }
+    console.log('Table', projectItemTable);
+
+    // let projectTable="<table><tr><td>" + projectItems[0] + "</td></tr></table>";
+    // let numberOfColumns = 3;
+    // for (var f; f< projectItems.length; f++){
+    //   for( var i=0; i<numberOfColumns; i++) {
+    //     if(i%3==0) {
+    //       projectTable+="<tr>"
+    //     }
+    //     projectTable+=
+    //   }
+    // }
+
+    {/* for(var i = 0; i<projectItems.length; i++){
+      projectItems.splice(i, 0, "<tr>");
+      i += 4;
+      projectItems.splice(i, 0, "</tr>");
+    } */}
+    console.log('After Map')
+    console.log(projectItems); // Debugging
     return (
       <section id="projects">
           <h1>Projects</h1>
-          <div style={projectsContainer} className="Projects">
-            {projectItems}
-          </div>
+          <table>
+            <thead>
+            </thead>
+            <tbody>
+              {projectItemTable}
+            </tbody>
+          </table>
       </section>
     );
   }
