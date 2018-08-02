@@ -8,11 +8,13 @@ const projectItemStyle = {
   margin: 'auto',
   textAlign: 'left',
   boxSizing: 'border-box',
-  paddingLeft: '8px',
-  paddingRight: '8px',
+  // paddingLeft: '8px',
+  // paddingRight: '8px',
   border: 'solid 5px'
 
 };
+
+
 const pStyle = {
   fontSize: '15px',
   textAlign: 'center'
@@ -25,10 +27,15 @@ class ProjectItem extends React.Component {
       <div className="columns project-item">
         <div className="item-wrap">
           <div style={projectItemStyle} >
-            <img src={this.props.project.pictureLink} alt="Project Picture" />
-            <h3>{this.props.project.title}</h3>
-            <p style={pStyle}>{this.props.project.languages}</p>
-            <p>{this.props.project.descirption}</p>
+            <div style={{paddingTop: "1rem", textAlign: "center",height: "45%", backgroundImage: `url(${this.props.project.pictureLink})`, backgroundSize: 'cover',
+            overflow: 'hidden',}} >
+              {/* <img src={this.props.project.pictureLink} alt="Project Picture" /> */}
+              <h3>{this.props.project.title}</h3>
+              <p style={pStyle}>{this.props.project.languages}</p>
+            </div>
+            <div style={{paddingTop: "1rem", paddingLeft: ".5rem", paddingRIght: ".5rem"}}>
+              <p>{this.props.project.descirption}</p>
+            </div>
           </div>
         </div>
       </div>

@@ -26,7 +26,7 @@ class Projects extends React.Component {
         title: "Huddle: Team Management",
         descirption: "Huddle is a Kanban web application written in React, HTML, CSS, and JavaScript.",
         languages: ["React", "HTML", "CSS", "JavaScript"],
-        pictureLink: {Huddle},
+        pictureLink: Huddle,
         lastUpdate: "Nov 25, 2017"
       },
       {
@@ -111,7 +111,10 @@ class Projects extends React.Component {
         // console.log(projectItems);
         return (
           <td key={project.title} style={{paddingLeft: '.25rem', paddingRight: '.25rem'}}>
-            <ProjectItem project={project}/>
+            <ProjectItem
+              onMouseEnter={this.fadeBackground}
+              onMouseLeave={this.resetBackground}
+              project={project}/>
           </td>
         );
       });
@@ -145,22 +148,6 @@ class Projects extends React.Component {
     }
     console.log('Table', projectItemTable);
 
-    // let projectTable="<table><tr><td>" + projectItems[0] + "</td></tr></table>";
-    // let numberOfColumns = 3;
-    // for (var f; f< projectItems.length; f++){
-    //   for( var i=0; i<numberOfColumns; i++) {
-    //     if(i%3==0) {
-    //       projectTable+="<tr>"
-    //     }
-    //     projectTable+=
-    //   }
-    // }
-
-    {/* for(var i = 0; i<projectItems.length; i++){
-      projectItems.splice(i, 0, "<tr>");
-      i += 4;
-      projectItems.splice(i, 0, "</tr>");
-    } */}
     console.log('After Map')
     console.log(projectItems); // Debugging
     return (
