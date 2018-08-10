@@ -1,7 +1,7 @@
 {
-  "name": "personal-website-react",
-  "description": "Rick Boshae Personal Website",
-  "version": "1.0.0",
+  "name": "rboshae.github.io",
+  "description": "Rick Boshae's Personal Website",
+  "version": "2.0.0",
   "author": "Rick Boshae <rwboshae@gmail.com>",
   "dependencies": {
     "bootstrap": "^4.1.3",
@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build && gh-pages -b master -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
