@@ -13,4 +13,5 @@ module.exports = {
         },
     },
   ],
+  pathPrefix: `/rboshae.github.io`,
 }
