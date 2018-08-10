@@ -10,14 +10,15 @@ const projectItemStyle = {
   boxSizing: 'border-box',
   // paddingLeft: '8px',
   // paddingRight: '8px',
-  border: 'solid 5px'
+  border: 'solid 5px',
+  boxShadow: '5px 10px #888888'
 
 };
 
-
 const pStyle = {
   fontSize: '15px',
-  textAlign: 'center'
+  textAlign: 'center',
+  marginBottom:'0'
 }
 class ProjectItem extends React.Component {
   render() {
@@ -27,13 +28,38 @@ class ProjectItem extends React.Component {
       <div className="columns project-item">
         <div className="item-wrap">
           <div style={projectItemStyle} >
-            <div style={{paddingTop: "1rem", textAlign: "center",height: "45%", backgroundImage: `url(${this.props.project.pictureLink})`, backgroundSize: 'cover',
-            overflow: 'hidden',}} >
-              {/* <img src={this.props.project.pictureLink} alt="Project Picture" /> */}
+            <div
+              style={{
+                position: 'relative',
+                zIndex:'1',
+                margin: 'auto',
+                color: 'white',
+                fontSize: '1.75rem',
+                paddingTop: "1rem", textAlign: "center",
+                height: "45%",
+                verticalAlign: 'center',
+
+              }} >
+              <div className="bg" style={{
+                position: 'absolute',
+                zIndex: '-1',
+                top: '0',
+                bottom: '0',
+                left: '0',
+                right: '0',
+                backgroundImage: `linear-gradient(
+                    rgba(0, 0, 0, 0.55),
+                    rgba(0, 0, 0, 0)
+                  ), url(${this.props.project.pictureLink})`,
+                width: '100%',
+                height: '100%',
+                backgroundSize: 'cover',
+
+              }}></div>
               <h3>{this.props.project.title}</h3>
-              <p style={pStyle}>{this.props.project.languages}</p>
             </div>
-            <div style={{paddingTop: "1rem", paddingLeft: ".5rem", paddingRIght: ".5rem"}}>
+            <div style={{paddingTop: ".11rem", paddingLeft: ".5rem", paddingRight: ".5rem"}}>
+              <p style={pStyle}>{this.props.project.languages}</p>
               <p>{this.props.project.descirption}</p>
             </div>
           </div>

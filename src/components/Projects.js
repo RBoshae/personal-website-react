@@ -3,11 +3,19 @@ import ReactDom from "react-dom";
 import Link from "gatsby-link";
 import ProjectItem from './ProjectItem';
 
-import Huddle from "../assets/images/projects/Huddle/Huddle-Logo-700x400.png";
+// import project background images
+import Huddle from "../assets/images/projects/Huddle/BG-700x400.png";
+import Breakout from "../assets/images/projects/Breakout/BG-700x400.png";
+import FeatureSelectionFromNN from "../assets/images/projects/Feature-Selection-With-Nearest-Neighbor/BG-700x400.jpg";
+import miniGL from "../assets/images/projects/miniGL/BG-700x400.png";
+import personalWebsitev1 from "../assets/images/projects/PersonalWebsite/BG-700x400.png";
+import RayTracer from "../assets/images/projects/RayTracer/BG-700x400.png";
+import rshell from "../assets/images/projects/rshell/BG-700x400.png";
+import SlidingPuzzle from "../assets/images/projects/SlidingPuzzle/BG-700x400.png";
+
 
 const projectsContainer = {
   position: 'absolute'
-
 };
 
 
@@ -33,7 +41,7 @@ class Projects extends React.Component {
         title: "Breakout",
         descirption: "I recreated the good ol' Atari game Breakout. Every bit of this project was wired by hand and coded from scratch. My favorite part of the project was reverse engineering the Nintendo controller.",
         languages: ["C", "Embedded Systems"],
-        pictureLink: "",
+        pictureLink: Breakout,
         lastUpdate: "June 2017"
       },
       {
@@ -41,7 +49,7 @@ class Projects extends React.Component {
         descirption: "I wrote a search algorithm in C++ to eliminate irrelevant features in a nearest neight classifier. I used Forward Selection and Backward Selection techniques.",
         languages: ["C++"],
         tags: ["Machine Learning"],
-        pictureLink: "",
+        pictureLink: FeatureSelectionFromNN,
         lastUpdate: "Nov 2016"
       },
       {
@@ -49,7 +57,7 @@ class Projects extends React.Component {
         descirption: "Implemented A* search, the wisest search algorithm, to create an artificially intelligent program that can solve a 3x3 puzzle.",
         languages: ["C++"],
         tags: ["AI"],
-        pictureLink: "",
+        pictureLink: SlidingPuzzle,
         lastUpdate: "Feb 21, 2016"
       },
       {
@@ -57,7 +65,7 @@ class Projects extends React.Component {
         descirption: "A simple ray tracer written in C++",
         languages: ["C++"],
         tags: ["Graphics"],
-        pictureLink: "",
+        pictureLink: RayTracer,
         lastUpdate: "Dec 21, 2017"
       },
       {
@@ -65,7 +73,7 @@ class Projects extends React.Component {
         descirption: "A simplified 3D rendering pipeline written in C++.",
         languages: ["C++"],
         tags: ["Graphics"],
-        pictureLink: "",
+        pictureLink: miniGL,
         lastUpdate: "Nov 28, 2017"
       },
       {
@@ -73,15 +81,15 @@ class Projects extends React.Component {
         descirption: "A shell terminal writtin in C++",
         languages: ["C++"],
         tags: ["OS"],
-        pictureLink: "",
+        pictureLink: rshell,
         lastUpdate: "Dec 2, 2017"
       },
       {
-        title: "Personal Website",
+        title: "Personal Website 1.0",
         descirption: "My personal website written in HTML, CSS, JavaScript.",
         languages: ["Bootstrap", "HTML", "CSS" , "JavaScript", "jQuery"],
         tags: ["WebDev"],
-        pictureLink: "",
+        pictureLink: personalWebsitev1,
         lastUpdate: "Jan 3, 2017"
       },
       {
@@ -110,7 +118,10 @@ class Projects extends React.Component {
       projectItems = this.state.projects.map( (project) => {
         // console.log(projectItems);
         return (
-          <td key={project.title} style={{paddingLeft: '.25rem', paddingRight: '.25rem'}}>
+          <td key={project.title} style = {{
+            paddingLeft: '.25rem',
+            paddingRight: '.25rem'
+          }}>
             <ProjectItem
               onMouseEnter={this.fadeBackground}
               onMouseLeave={this.resetBackground}
