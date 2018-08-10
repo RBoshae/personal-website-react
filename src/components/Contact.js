@@ -9,12 +9,14 @@ const Contact = () => {
     <div>
       <h1>Contact</h1>
       <div id="contactMessage">
-        <p>If you think I might be a good fit at your company or interested in speaking with me feel free to send me an e-mail.</p>
+        <p>If you think I might be a good fit at your company or are interested in speaking with me feel free to send me an email.</p>
         <h3>Email</h3>
         <p>rwboshae (at) gmail (dot) com</p>
 
       </div>
-      {/* <div style={{ float: 'right', display: 'inline-block', marginRight: '1rem'}}>
+
+      {/* TODO: Add Form.
+        <div style={{ float: 'right', display: 'inline-block', marginRight: '1rem'}}>
         <form role="form" aria-label="contact form" novalidate="">
           <div>
             <div>

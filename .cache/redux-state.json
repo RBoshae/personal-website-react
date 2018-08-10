@@ -1,18 +1,28 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "e227be52611b2c03e4467f1e487d5c69",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -24,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -41,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "91c023f89b57171ddfdc0b448af5edaf",
+        "contentDigest": "0ec6b73d3028ee13b0da20bc3882bb34",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -59,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -80,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e52be2dd4d5fbaa6d83b2105697d9d08",
+        "contentDigest": "8e4c86739ebb3f5d2581c112fb6cea52",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -99,7 +109,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -116,13 +126,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6b7b18970cd630984bdaa587d4157764",
+        "contentDigest": "96f14e313125386d519c67fad5b4cfff",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -134,7 +144,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -151,13 +161,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "eda266582760363ac304ccd48bb62b5d",
+        "contentDigest": "d9e177c70bbf5acfdb865aad566cecfd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -170,7 +180,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -187,13 +197,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c9ab8543f0c17a6f0d02ea75bdec0c42",
+        "contentDigest": "5cebb14d739591298601a7673d0edfb9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.11",
@@ -205,7 +215,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -264,13 +274,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "24898a2b23a4262929f5c5150805adea",
+        "contentDigest": "b6a4d4276d1f1336fb74c94d6e9e4736",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-typography": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby-plugin-typography",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby-plugin-typography",
       "id": "Plugin gatsby-plugin-typography",
       "name": "gatsby-plugin-typography",
       "version": "1.7.19",
@@ -287,7 +297,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby-plugin-typography",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby-plugin-typography",
       "packageJson": {
         "name": "gatsby-plugin-typography",
         "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
@@ -336,13 +346,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a45f4976e0688d2f8a765e7dc963662e",
+        "contentDigest": "4b918b43a0021868ffb02cc0bbb0cdd6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "cfd84c515c055000a1a19f6a3097dd6e",
@@ -352,7 +362,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io",
       "packageJson": {
         "name": "personal-website-react",
         "description": "Rick Boshae Personal Website",
@@ -394,10 +404,6 @@
         ],
         "devDependencies": [
           {
-            "name": "gh-pages",
-            "version": "^1.2.0"
-          },
-          {
             "name": "prettier",
             "version": "^1.14.2"
           }
@@ -409,19 +415,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "165a54fe256dd8a153718618791a13ea",
+        "contentDigest": "fbcddedee695af6ecabc9df4466bdbea",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "1.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages",
+        "path": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -429,7 +435,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -491,7 +497,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c5018a98194b9cb5aebbf8948c8ae626",
+        "contentDigest": "5e9c7b48cc5bc59c3966c9f8809a5b85",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -500,14 +506,16 @@
       "siteMetadata": {
         "title": "Rick Boshae"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "/rboshae.github.io",
       "polyfill": true,
-      "buildTime": "2018-08-10T05:44:24.719Z",
+      "buildTime": "2018-08-10T22:56:23.871Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3b2f220724f6f6489012af9275e6ceb3",
+        "contentDigest": "dd27487c2a4c44751f35271f181716e4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -517,18 +525,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/404.js",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/404.js",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6fd6f0ba0fa9e7c9b86a15d64386c6e8",
+        "contentDigest": "a85533a9008ece13c409ffeeede97438",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -538,18 +546,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/index.js",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/index.js",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "610eab402f8f99d8374ff30c01e3862e",
+        "contentDigest": "a3530db474d7bbac6ddca661c4b09498",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -559,18 +567,18 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/page-2.js",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/page-2.js",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3b05d442a0a8679fe7ef5777108a5382",
+        "contentDigest": "99fa4d73a5a61bfd612fa6ff18155d6c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -580,18 +588,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/404.js",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/home/rick/MyPrograms/GitHub/rboshae.github.io/src/pages/404.js",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "181f6b3def387e963a7e42d0cfcfd506",
+        "contentDigest": "b236bd16856d9f920dce26229fe83882",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -599,7 +607,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "0345311a46b9094ba26aacca31dfe758"
+    "PLUGINS_HASH": "65ee24f71301c2c31af8b2121e1fd1b2"
   },
   "componentDataDependencies": {
     "nodes": {
