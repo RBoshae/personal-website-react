@@ -10,7 +10,8 @@ exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js")),
   "component---src-pages-index-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js")),
-  "component---src-pages-page-2-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/page-2.js"))
+  "component---src-pages-my-files-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/my-files.js")),
+  "component---src-pages-blog-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js"))
 }
 
 exports.json = {
@@ -18,6 +19,7 @@ exports.json = {
   "dev-404-page.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/dev-404-page.json"),
   "404.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/404.json"),
   "index.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/index.json"),
-  "page-2.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/page-2.json"),
-  "404-html.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/404-html.json")
+  "my-files.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/my-files.json"),
+  "404-html.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/404-html.json"),
+  "blog.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/blog.json")
 }
