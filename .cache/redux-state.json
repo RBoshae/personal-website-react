@@ -754,12 +754,12 @@
       },
       "pathPrefix": "/rboshae.github.io",
       "polyfill": true,
-      "buildTime": "2018-08-11T10:05:03.235Z",
+      "buildTime": "2018-08-13T23:07:46.977Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "819d11008c9f28809f51e6915c2a4a69",
+        "contentDigest": "c3a38fdd4459ae4631c38070cf47cb80",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -769,7 +769,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "90d126e521efe8f3a97e22d0eb96777c",
+        "contentDigest": "3520f5885980e8d6f1e08ef1a17a4261",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
@@ -781,7 +781,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-11T09:38:51.557Z",
-      "accessTime": "2018-08-11T09:38:51.613Z",
+      "accessTime": "2018-08-13T22:54:08.805Z",
       "changeTime": "2018-08-11T09:38:51.557Z",
       "birthTime": "2018-08-11T09:38:51.557Z",
       "root": "/",
@@ -790,7 +790,7 @@
       "ext": "",
       "name": "src",
       "relativeDirectory": "..",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 8,
       "uid": 1000,
@@ -799,11 +799,11 @@
       "blksize": 4096,
       "ino": 2135199,
       "blocks": 8,
-      "atimeMs": 1533980331613.2297,
+      "atimeMs": 1534200848805.0613,
       "mtimeMs": 1533980331557.2288,
       "ctimeMs": 1533980331557.2288,
       "birthtimeMs": 1533980331557.2288,
-      "atime": "2018-08-11T09:38:51.613Z",
+      "atime": "2018-08-13T22:54:08.805Z",
       "mtime": "2018-08-11T09:38:51.557Z",
       "ctime": "2018-08-11T09:38:51.557Z",
       "birthtime": "2018-08-11T09:38:51.557Z"
@@ -813,7 +813,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a106e9eb25ab0ae605d62477e12a82a5",
+        "contentDigest": "a6bf5f698a82c20e2ec7a0a5db246172",
         "type": "Directory",
         "description": "Directory \"src/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -825,7 +825,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-27T02:18:32.559Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.705Z",
       "changeTime": "2018-08-10T22:37:57.517Z",
       "birthTime": "2018-08-10T22:37:57.517Z",
       "root": "/",
@@ -834,7 +834,7 @@
       "ext": "",
       "name": "assets",
       "relativeDirectory": "",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 4,
       "uid": 1000,
@@ -843,11 +843,11 @@
       "blksize": 4096,
       "ino": 2135217,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859705.04,
       "mtimeMs": 1532657912559.138,
       "ctimeMs": 1533940677517.059,
       "birthtimeMs": 1533940677517.059,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.705Z",
       "mtime": "2018-07-27T02:18:32.559Z",
       "ctime": "2018-08-10T22:37:57.517Z",
       "birthtime": "2018-08-10T22:37:57.517Z"
@@ -857,7 +857,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0a31469cf48e8347ac3b640f840114f1",
+        "contentDigest": "6cca7bdf3f1ab54d4b8cc73ff6d85bf4",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -869,7 +869,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-11T09:23:02.222Z",
-      "accessTime": "2018-08-11T09:23:02.226Z",
+      "accessTime": "2018-08-13T22:54:08.813Z",
       "changeTime": "2018-08-11T09:23:02.222Z",
       "birthTime": "2018-08-11T09:23:02.222Z",
       "root": "/",
@@ -878,7 +878,7 @@
       "ext": "",
       "name": "components",
       "relativeDirectory": "",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -887,11 +887,11 @@
       "blksize": 4096,
       "ino": 2135202,
       "blocks": 8,
-      "atimeMs": 1533979382226.1787,
+      "atimeMs": 1534200848813.0613,
       "mtimeMs": 1533979382222.1785,
       "ctimeMs": 1533979382222.1785,
       "birthtimeMs": 1533979382222.1785,
-      "atime": "2018-08-11T09:23:02.226Z",
+      "atime": "2018-08-13T22:54:08.813Z",
       "mtime": "2018-08-11T09:23:02.222Z",
       "ctime": "2018-08-11T09:23:02.222Z",
       "birthtime": "2018-08-11T09:23:02.222Z"
@@ -901,7 +901,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4ff499d7a9ebac14601434c477b15194",
+        "contentDigest": "d4c667930cd19e23a584e85ce149275d",
         "type": "Directory",
         "description": "Directory \"src/layouts\"",
         "owner": "gatsby-source-filesystem"
@@ -913,7 +913,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-22T10:46:55.829Z",
-      "accessTime": "2018-08-10T22:56:29.391Z",
+      "accessTime": "2018-08-13T22:54:08.829Z",
       "changeTime": "2018-08-10T22:37:57.313Z",
       "birthTime": "2018-08-10T22:37:57.313Z",
       "root": "/",
@@ -922,7 +922,7 @@
       "ext": "",
       "name": "layouts",
       "relativeDirectory": "",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -931,11 +931,11 @@
       "blksize": 4096,
       "ino": 2135210,
       "blocks": 8,
-      "atimeMs": 1533941789390.9685,
+      "atimeMs": 1534200848829.061,
       "mtimeMs": 1532256415829.105,
       "ctimeMs": 1533940677313.0625,
       "birthtimeMs": 1533940677313.0625,
-      "atime": "2018-08-10T22:56:29.391Z",
+      "atime": "2018-08-13T22:54:08.829Z",
       "mtime": "2018-07-22T10:46:55.829Z",
       "ctime": "2018-08-10T22:37:57.313Z",
       "birthtime": "2018-08-10T22:37:57.313Z"
@@ -945,7 +945,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "63d1d0932fbfa0ea860be51d610b86fa",
+        "contentDigest": "89723663573aa89183c01fa7a6d82f4a",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -957,7 +957,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-11T09:23:09.843Z",
-      "accessTime": "2018-08-11T09:23:09.855Z",
+      "accessTime": "2018-08-13T22:54:08.829Z",
       "changeTime": "2018-08-11T09:23:09.843Z",
       "birthTime": "2018-08-11T09:23:09.843Z",
       "root": "/",
@@ -966,7 +966,7 @@
       "ext": "",
       "name": "pages",
       "relativeDirectory": "",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -975,11 +975,11 @@
       "blksize": 4096,
       "ino": 2135213,
       "blocks": 8,
-      "atimeMs": 1533979389855.0076,
+      "atimeMs": 1534200848829.061,
       "mtimeMs": 1533979389843.0063,
       "ctimeMs": 1533979389843.0063,
       "birthtimeMs": 1533979389843.0063,
-      "atime": "2018-08-11T09:23:09.855Z",
+      "atime": "2018-08-13T22:54:08.829Z",
       "mtime": "2018-08-11T09:23:09.843Z",
       "ctime": "2018-08-11T09:23:09.843Z",
       "birthtime": "2018-08-11T09:23:09.843Z"
@@ -989,7 +989,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "665d65c0ebf5f6069fdef39c539ff556",
+        "contentDigest": "2e0a506970324bc7c8544feecb170718",
         "type": "Directory",
         "description": "Directory \"src/templates\"",
         "owner": "gatsby-source-filesystem"
@@ -1001,7 +1001,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-11T09:39:04.945Z",
-      "accessTime": "2018-08-11T09:39:04.949Z",
+      "accessTime": "2018-08-13T22:54:19.645Z",
       "changeTime": "2018-08-11T09:39:04.945Z",
       "birthTime": "2018-08-11T09:39:04.945Z",
       "root": "/",
@@ -1010,7 +1010,7 @@
       "ext": "",
       "name": "templates",
       "relativeDirectory": "",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1019,11 +1019,11 @@
       "blksize": 4096,
       "ino": 2134134,
       "blocks": 8,
-      "atimeMs": 1533980344949.451,
+      "atimeMs": 1534200859645.0403,
       "mtimeMs": 1533980344945.4507,
       "ctimeMs": 1533980344945.4507,
       "birthtimeMs": 1533980344945.4507,
-      "atime": "2018-08-11T09:39:04.949Z",
+      "atime": "2018-08-13T22:54:19.645Z",
       "mtime": "2018-08-11T09:39:04.945Z",
       "ctime": "2018-08-11T09:39:04.945Z",
       "birthtime": "2018-08-11T09:39:04.945Z"
@@ -1033,7 +1033,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "eb9268c39d91924538689a18b1708be5",
+        "contentDigest": "7dd78cf87b6c8ebb9556e8fcf2212c59",
         "type": "Directory",
         "description": "Directory \"src/utils\"",
         "owner": "gatsby-source-filesystem"
@@ -1045,7 +1045,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-22T09:29:04.737Z",
-      "accessTime": "2018-08-10T22:56:29.503Z",
+      "accessTime": "2018-08-13T22:54:08.845Z",
       "changeTime": "2018-08-10T22:37:57.289Z",
       "birthTime": "2018-08-10T22:37:57.289Z",
       "root": "/",
@@ -1054,7 +1054,7 @@
       "ext": "",
       "name": "utils",
       "relativeDirectory": "",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1063,11 +1063,11 @@
       "blksize": 4096,
       "ino": 2135200,
       "blocks": 8,
-      "atimeMs": 1533941789502.9663,
+      "atimeMs": 1534200848845.061,
       "mtimeMs": 1532251744736.5,
       "ctimeMs": 1533940677289.0627,
       "birthtimeMs": 1533940677289.0627,
-      "atime": "2018-08-10T22:56:29.503Z",
+      "atime": "2018-08-13T22:54:08.845Z",
       "mtime": "2018-07-22T09:29:04.737Z",
       "ctime": "2018-08-10T22:37:57.289Z",
       "birthtime": "2018-08-10T22:37:57.289Z"
@@ -1077,7 +1077,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6f59fe417b7365fc6a1e75430e088fb0",
+        "contentDigest": "e498d6d1c51d535fdc4219d77aeaeb2d",
         "type": "Directory",
         "description": "Directory \"src/assets/css\"",
         "owner": "gatsby-source-filesystem"
@@ -1089,7 +1089,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-27T02:26:05.394Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.769Z",
       "changeTime": "2018-08-10T22:37:57.517Z",
       "birthTime": "2018-08-10T22:37:57.517Z",
       "root": "/",
@@ -1098,7 +1098,7 @@
       "ext": "",
       "name": "css",
       "relativeDirectory": "assets",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1107,11 +1107,11 @@
       "blksize": 4096,
       "ino": 2135250,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859769.04,
       "mtimeMs": 1532658365394.143,
       "ctimeMs": 1533940677517.059,
       "birthtimeMs": 1533940677517.059,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.769Z",
       "mtime": "2018-07-27T02:26:05.394Z",
       "ctime": "2018-08-10T22:37:57.517Z",
       "birthtime": "2018-08-10T22:37:57.517Z"
@@ -1121,7 +1121,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1ae248d444db8fe8599f8a06695c5254",
+        "contentDigest": "d83e3f5fa51a4e70cdf7257a7639bdc6",
         "type": "Directory",
         "description": "Directory \"src/assets/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1133,7 +1133,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-07-27T00:37:26.337Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.769Z",
       "changeTime": "2018-08-10T22:37:57.517Z",
       "birthTime": "2018-08-10T22:37:57.517Z",
       "root": "/",
@@ -1142,7 +1142,7 @@
       "ext": "",
       "name": "images",
       "relativeDirectory": "assets",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 3,
       "uid": 1000,
@@ -1151,11 +1151,11 @@
       "blksize": 4096,
       "ino": 2135218,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859769.04,
       "mtimeMs": 1532651846337.453,
       "ctimeMs": 1533940677517.059,
       "birthtimeMs": 1533940677517.059,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.769Z",
       "mtime": "2018-07-27T00:37:26.337Z",
       "ctime": "2018-08-10T22:37:57.517Z",
       "birthtime": "2018-08-10T22:37:57.517Z"
@@ -1165,7 +1165,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "29c9a5d44f8888d7e08b7211a7f2b90c",
+        "contentDigest": "af648d4f3eba925612249b588a2f8086",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects\"",
         "owner": "gatsby-source-filesystem"
@@ -1177,7 +1177,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:27:47.539Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.517Z",
       "birthTime": "2018-08-10T22:37:57.517Z",
       "root": "/",
@@ -1186,7 +1186,7 @@
       "ext": "",
       "name": "projects",
       "relativeDirectory": "assets/images",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 10,
       "uid": 1000,
@@ -1195,11 +1195,11 @@
       "blksize": 4096,
       "ino": 2135219,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533864467538.855,
       "ctimeMs": 1533940677517.059,
       "birthtimeMs": 1533940677517.059,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:27:47.539Z",
       "ctime": "2018-08-10T22:37:57.517Z",
       "birthtime": "2018-08-10T22:37:57.517Z"
@@ -1209,7 +1209,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "72b5c542139842d44df77551232d0e12",
+        "contentDigest": "8c492f908a7458829992936249a84324",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/Breakout\"",
         "owner": "gatsby-source-filesystem"
@@ -1221,7 +1221,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:01:27.935Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.349Z",
       "birthTime": "2018-08-10T22:37:57.349Z",
       "root": "/",
@@ -1230,7 +1230,7 @@
       "ext": "",
       "name": "Breakout",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1239,11 +1239,11 @@
       "blksize": 4096,
       "ino": 2135220,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533862887934.659,
       "ctimeMs": 1533940677349.0618,
       "birthtimeMs": 1533940677349.0618,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:01:27.935Z",
       "ctime": "2018-08-10T22:37:57.349Z",
       "birthtime": "2018-08-10T22:37:57.349Z"
@@ -1253,7 +1253,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0fefb04fbe33fb61b0390bd2bd3eaf28",
+        "contentDigest": "bf97dc2851bad710b925a799d3e5e4fc",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/Feature-Selection-With-Nearest-Neighbor\"",
         "owner": "gatsby-source-filesystem"
@@ -1265,7 +1265,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:05:50.753Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.417Z",
       "birthTime": "2018-08-10T22:37:57.417Z",
       "root": "/",
@@ -1274,7 +1274,7 @@
       "ext": "",
       "name": "Feature-Selection-With-Nearest-Neighbor",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1283,11 +1283,11 @@
       "blksize": 4096,
       "ino": 2135229,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533863150753.411,
       "ctimeMs": 1533940677417.0608,
       "birthtimeMs": 1533940677417.0608,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:05:50.753Z",
       "ctime": "2018-08-10T22:37:57.417Z",
       "birthtime": "2018-08-10T22:37:57.417Z"
@@ -1297,7 +1297,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "52a6f49c36f7ab49a8ec3e1952afab77",
+        "contentDigest": "c3cfeae69aa1cf62f25e7fc33cf596e7",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/Huddle\"",
         "owner": "gatsby-source-filesystem"
@@ -1309,7 +1309,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:01:48.490Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.393Z",
       "birthTime": "2018-08-10T22:37:57.393Z",
       "root": "/",
@@ -1318,7 +1318,7 @@
       "ext": "",
       "name": "Huddle",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1327,11 +1327,11 @@
       "blksize": 4096,
       "ino": 2135224,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533862908490.249,
       "ctimeMs": 1533940677393.061,
       "birthtimeMs": 1533940677393.061,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:01:48.490Z",
       "ctime": "2018-08-10T22:37:57.393Z",
       "birthtime": "2018-08-10T22:37:57.393Z"
@@ -1341,7 +1341,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "59dff63f6f1a1f6fe4878ea2ad7c4be4",
+        "contentDigest": "be802d43085c98a91746ae70d572b5ec",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/PersonalWebsite\"",
         "owner": "gatsby-source-filesystem"
@@ -1353,7 +1353,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:11:12.707Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.489Z",
       "birthTime": "2018-08-10T22:37:57.489Z",
       "root": "/",
@@ -1362,7 +1362,7 @@
       "ext": "",
       "name": "PersonalWebsite",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1371,11 +1371,11 @@
       "blksize": 4096,
       "ino": 2135236,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533863472706.97,
       "ctimeMs": 1533940677489.0596,
       "birthtimeMs": 1533940677489.0596,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:11:12.707Z",
       "ctime": "2018-08-10T22:37:57.489Z",
       "birthtime": "2018-08-10T22:37:57.489Z"
@@ -1385,7 +1385,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f1db4b151bd852e9f77f2f46f2c58018",
+        "contentDigest": "57e0622d5cdbdd757ae979badba0ff08",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/RayTracer\"",
         "owner": "gatsby-source-filesystem"
@@ -1397,7 +1397,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:14:24.143Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.505Z",
       "birthTime": "2018-08-10T22:37:57.505Z",
       "root": "/",
@@ -1406,7 +1406,7 @@
       "ext": "",
       "name": "RayTracer",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1415,11 +1415,11 @@
       "blksize": 4096,
       "ino": 2135241,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533863664143.137,
       "ctimeMs": 1533940677505.0593,
       "birthtimeMs": 1533940677505.0593,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:14:24.143Z",
       "ctime": "2018-08-10T22:37:57.505Z",
       "birthtime": "2018-08-10T22:37:57.505Z"
@@ -1429,7 +1429,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5f05da7bd46e35b91f6fc4654a033d90",
+        "contentDigest": "b6262793b803c909bf2cd32177f16702",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/SlidingPuzzle\"",
         "owner": "gatsby-source-filesystem"
@@ -1441,7 +1441,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:27:27.415Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.517Z",
       "birthTime": "2018-08-10T22:37:57.517Z",
       "root": "/",
@@ -1450,7 +1450,7 @@
       "ext": "",
       "name": "SlidingPuzzle",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1459,11 +1459,11 @@
       "blksize": 4096,
       "ino": 2135247,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533864447415.264,
       "ctimeMs": 1533940677517.059,
       "birthtimeMs": 1533940677517.059,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:27:27.415Z",
       "ctime": "2018-08-10T22:37:57.517Z",
       "birthtime": "2018-08-10T22:37:57.517Z"
@@ -1473,7 +1473,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cc648883f89bd2095c27c8213582b9af",
+        "contentDigest": "dfca8721c2c8bd573cb39d6083cd39ed",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/miniGL\"",
         "owner": "gatsby-source-filesystem"
@@ -1485,7 +1485,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:09:10.005Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.453Z",
       "birthTime": "2018-08-10T22:37:57.453Z",
       "root": "/",
@@ -1494,7 +1494,7 @@
       "ext": "",
       "name": "miniGL",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1503,11 +1503,11 @@
       "blksize": 4096,
       "ino": 2135232,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533863350005.426,
       "ctimeMs": 1533940677453.06,
       "birthtimeMs": 1533940677453.06,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:09:10.005Z",
       "ctime": "2018-08-10T22:37:57.453Z",
       "birthtime": "2018-08-10T22:37:57.453Z"
@@ -1517,7 +1517,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7dcafd37ba108ab871292283e0126e7b",
+        "contentDigest": "17b9b24a5797c71dd9d462b6f0715060",
         "type": "Directory",
         "description": "Directory \"src/assets/images/projects/rshell\"",
         "owner": "gatsby-source-filesystem"
@@ -1529,7 +1529,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-10T01:24:47.303Z",
-      "accessTime": "2018-08-10T22:56:29.499Z",
+      "accessTime": "2018-08-13T22:54:19.773Z",
       "changeTime": "2018-08-10T22:37:57.513Z",
       "birthTime": "2018-08-10T22:37:57.513Z",
       "root": "/",
@@ -1538,7 +1538,7 @@
       "ext": "",
       "name": "rshell",
       "relativeDirectory": "assets/images/projects",
-      "dev": 43,
+      "dev": 42,
       "mode": 16893,
       "nlink": 2,
       "uid": 1000,
@@ -1547,11 +1547,11 @@
       "blksize": 4096,
       "ino": 2135244,
       "blocks": 8,
-      "atimeMs": 1533941789498.9663,
+      "atimeMs": 1534200859773.04,
       "mtimeMs": 1533864287302.528,
       "ctimeMs": 1533940677513.059,
       "birthtimeMs": 1533940677513.059,
-      "atime": "2018-08-10T22:56:29.499Z",
+      "atime": "2018-08-13T22:54:19.773Z",
       "mtime": "2018-08-10T01:24:47.303Z",
       "ctime": "2018-08-10T22:37:57.513Z",
       "birthtime": "2018-08-10T22:37:57.513Z"
@@ -2477,7 +2477,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ee6d6629b205755956dd0ec36656f346",
+        "contentDigest": "7b115a6f8a2c66aa5d9927c465276929",
         "mediaType": "application/javascript",
         "type": "File",
         "description": "File \"src/pages/blog.js\"",
@@ -2487,19 +2487,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js",
       "relativePath": "pages/blog.js",
       "extension": "js",
-      "size": 1073,
-      "prettySize": "1.07 kB",
-      "modifiedTime": "2018-08-11T09:45:34.902Z",
-      "accessTime": "2018-08-11T09:45:34.922Z",
-      "changeTime": "2018-08-11T09:45:34.902Z",
-      "birthTime": "2018-08-11T09:45:34.902Z",
+      "size": 1083,
+      "prettySize": "1.08 kB",
+      "modifiedTime": "2018-08-13T23:06:47.215Z",
+      "accessTime": "2018-08-13T23:06:42.792Z",
+      "changeTime": "2018-08-13T23:06:47.215Z",
+      "birthTime": "2018-08-13T23:06:47.215Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "blog.js",
       "ext": ".js",
       "name": "blog",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2508,14 +2508,14 @@
       "blksize": 4096,
       "ino": 2133954,
       "blocks": 24,
-      "atimeMs": 1533980734921.8735,
-      "mtimeMs": 1533980734901.8733,
-      "ctimeMs": 1533980734901.8733,
-      "birthtimeMs": 1533980734901.8733,
-      "atime": "2018-08-11T09:45:34.922Z",
-      "mtime": "2018-08-11T09:45:34.902Z",
-      "ctime": "2018-08-11T09:45:34.902Z",
-      "birthtime": "2018-08-11T09:45:34.902Z"
+      "atimeMs": 1534201602791.6086,
+      "mtimeMs": 1534201607215.409,
+      "ctimeMs": 1534201607215.409,
+      "birthtimeMs": 1534201607215.409,
+      "atime": "2018-08-13T23:06:42.792Z",
+      "mtime": "2018-08-13T23:06:47.215Z",
+      "ctime": "2018-08-13T23:06:47.215Z",
+      "birthtime": "2018-08-13T23:06:47.215Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js absPath of file",
@@ -3831,7 +3831,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "53a3cef54ed2a772453eb9546241c77e",
+        "contentDigest": "f65927ea465b8ec39d056b4e5a677fb4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3854,7 +3854,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fe050f03cc5a22bd7a5108dfeb773906",
+        "contentDigest": "f2783cc6da101c8ddc69c1966f418fc0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3877,7 +3877,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "19a0478cbd8fae45edb8fe5e17bd4575",
+        "contentDigest": "1d882539d4a119e2cdd49d1e79f99d60",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3900,7 +3900,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7588cef0a038981ba1e274a15e498d12",
+        "contentDigest": "03a76b07740c6a9fe4a774dce6d1db14",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3923,7 +3923,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "88780891dd5bccedccb03078d7960f6b",
+        "contentDigest": "ed39b599131c23a833518e58e02cf27e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3946,7 +3946,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e0e01f18525c4d0d3f230ef93558d90a",
+        "contentDigest": "dca7773c1c5f29a7132e310d23ff1855",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3969,7 +3969,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bbca0e7719faf04783f101937e9d2f48",
+        "contentDigest": "15510e198bb129beac5d201f9fe61420",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3992,7 +3992,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1bb65788dd151ce42776c7f074ab3a90",
+        "contentDigest": "14e1cad4593bd1158f23b3487c820030",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4013,7 +4013,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eae61b4bd47ccdd58664531343261c1d",
+        "contentDigest": "9c770e6bdc396cc41419545237883e37",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4034,7 +4034,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e0dd0ccdcd6fd90b61744b53cd0cc404",
+        "contentDigest": "deeef4f6208491b6edfef93e1286ffe6",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4055,7 +4055,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d9d1f2b3adead349a5b0993b28dcff51",
+        "contentDigest": "2526d7ad9fb3aeea9817132e91f3fc38",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4076,7 +4076,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2cc5f7665eec303686b153bc8170cc7d",
+        "contentDigest": "8271001a66b86694a65896f549567636",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4097,7 +4097,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2e1ac062245f23a2307e7a8f2c267e64",
+        "contentDigest": "a2a5abbdf80d374f8f653bac3f6baff7",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -4143,6 +4143,9 @@
       ],
       "File": [
         "/my-files/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
       ]
     }
   }

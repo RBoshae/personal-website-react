@@ -25,7 +25,7 @@ export default ({ data }) => {
             </p>
           </Link>
         </div>
-      ))}
+      )).reverse()}
     </div>
   );
 };
