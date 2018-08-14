@@ -5,14 +5,6 @@ import Link from 'gatsby-link';
 import Navbar from '../components/Navbar'
 import './index.css'
 
-const ListLink = props =>
-  <li
-    style={{ display: 'inline-block', marginRight: '1rem'}}>
-    <Link to={props.to}>
-      {props.children}
-    </Link>
-  </li>
-
 const Layout = ({ children, data }) => (
   <div>
     <Helmet
@@ -30,20 +22,8 @@ const Layout = ({ children, data }) => (
         padding: '1.25rem 1rem',
       }}
     >
-      <header style={{ marginBottom: '2.5rem' }}>
-        <Link to="/" style={{ textShadow: 'none', backroundImage: 'none'}}>
-          <h3 style={{ display: 'inline'}}>{data.site.siteMetadata.title}</h3>
-        </Link>
-        <ul style={{ listStyle: 'none', float: 'right'}}>
-          <ListLink to="/#portfolio">Portfolio</ListLink>
-          <ListLink to="/#tech">Tech</ListLink>
-          <ListLink to="/#education">Education</ListLink>
-          <ListLink to="/#honors">Honors & Awards</ListLink>
-          <ListLink to="/blog">Blog</ListLink>
-          <ListLink to="/#contact">Contact</ListLink>
-        </ul>
-      </header>
 
+      <Navbar siteTitle={data.site.siteMetadata.title}/>
       {children()}
     </div>
   </div>
