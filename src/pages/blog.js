@@ -16,14 +16,14 @@ export default ({ data }) => {
             to={node.fields.slug}
             css={{ textDecoration: `none`, color: `inherit` }}
           >
-            <h3>
+            <h3 style={{marginBottom: '0'}}>
               {node.frontmatter.title}{" "}
               <span>— {node.frontmatter.date}</span>
             </h3>
+          </Link>
             <p>
               {node.excerpt}
             </p>
-          </Link>
         </div>
       )).reverse()}
     </div>

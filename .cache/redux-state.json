@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c1944577c3f37a3f6fbd18fa5b0ca8f",
+        "contentDigest": "59d1f703f8ba5cf05265b005a95c5243",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -766,12 +766,12 @@
       "host": "localhost",
       "pathPrefix": "/rboshae.github.io",
       "polyfill": true,
-      "buildTime": "2018-08-14T08:56:13.876Z",
+      "buildTime": "2018-08-14T21:16:45.915Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3035205dbf16331c17abcab240ab3ca3",
+        "contentDigest": "732fdd593b6a9d50be55d6139dbd1216",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1001,7 +1001,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2e0a506970324bc7c8544feecb170718",
+        "contentDigest": "4148a4221514dd754365e2089f727ffd",
         "type": "Directory",
         "description": "Directory \"src/templates\"",
         "owner": "gatsby-source-filesystem"
@@ -1012,10 +1012,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-08-11T09:39:04.945Z",
-      "accessTime": "2018-08-13T22:54:19.645Z",
-      "changeTime": "2018-08-11T09:39:04.945Z",
-      "birthTime": "2018-08-11T09:39:04.945Z",
+      "modifiedTime": "2018-08-14T21:04:23.157Z",
+      "accessTime": "2018-08-14T21:04:23.169Z",
+      "changeTime": "2018-08-14T21:04:23.157Z",
+      "birthTime": "2018-08-14T21:04:23.157Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src",
       "base": "templates",
@@ -1031,14 +1031,14 @@
       "blksize": 4096,
       "ino": 2134134,
       "blocks": 8,
-      "atimeMs": 1534200859645.0403,
-      "mtimeMs": 1533980344945.4507,
-      "ctimeMs": 1533980344945.4507,
-      "birthtimeMs": 1533980344945.4507,
-      "atime": "2018-08-13T22:54:19.645Z",
-      "mtime": "2018-08-11T09:39:04.945Z",
-      "ctime": "2018-08-11T09:39:04.945Z",
-      "birthtime": "2018-08-11T09:39:04.945Z"
+      "atimeMs": 1534280663169.0005,
+      "mtimeMs": 1534280663157.0007,
+      "ctimeMs": 1534280663157.0007,
+      "birthtimeMs": 1534280663157.0007,
+      "atime": "2018-08-14T21:04:23.169Z",
+      "mtime": "2018-08-14T21:04:23.157Z",
+      "ctime": "2018-08-14T21:04:23.157Z",
+      "birthtime": "2018-08-14T21:04:23.157Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/utils absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/utils absPath of file",
@@ -1810,10 +1810,10 @@
       "extension": "js",
       "size": 886,
       "prettySize": "886 B",
-      "modifiedTime": "2018-08-14T09:08:04.121Z",
-      "accessTime": "2018-08-14T09:06:01.232Z",
-      "changeTime": "2018-08-14T09:08:04.121Z",
-      "birthTime": "2018-08-14T09:08:04.121Z",
+      "modifiedTime": "2018-08-14T21:06:14.459Z",
+      "accessTime": "2018-08-14T21:05:37.368Z",
+      "changeTime": "2018-08-14T21:06:14.459Z",
+      "birthTime": "2018-08-14T21:06:14.459Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components",
       "base": "Navbar.js",
@@ -1829,14 +1829,14 @@
       "blksize": 4096,
       "ino": 2135205,
       "blocks": 24,
-      "atimeMs": 1534237561231.589,
-      "mtimeMs": 1534237684121.2178,
-      "ctimeMs": 1534237684121.2178,
-      "birthtimeMs": 1534237684121.2178,
-      "atime": "2018-08-14T09:06:01.232Z",
-      "mtime": "2018-08-14T09:08:04.121Z",
-      "ctime": "2018-08-14T09:08:04.121Z",
-      "birthtime": "2018-08-14T09:08:04.121Z"
+      "atimeMs": 1534280737367.6135,
+      "mtimeMs": 1534280774458.7517,
+      "ctimeMs": 1534280774458.7517,
+      "birthtimeMs": 1534280774458.7517,
+      "atime": "2018-08-14T21:05:37.368Z",
+      "mtime": "2018-08-14T21:06:14.459Z",
+      "ctime": "2018-08-14T21:06:14.459Z",
+      "birthtime": "2018-08-14T21:06:14.459Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components/ProjectItem.js absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components/ProjectItem.js absPath of file",
@@ -2399,7 +2399,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7b115a6f8a2c66aa5d9927c465276929",
+        "contentDigest": "9e3788f7412771091002a4735eacbe8b",
         "mediaType": "application/javascript",
         "type": "File",
         "description": "File \"src/pages/blog.js\"",
@@ -2409,12 +2409,12 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js",
       "relativePath": "pages/blog.js",
       "extension": "js",
-      "size": 1083,
-      "prettySize": "1.08 kB",
-      "modifiedTime": "2018-08-13T23:06:47.215Z",
-      "accessTime": "2018-08-13T23:06:42.792Z",
-      "changeTime": "2018-08-13T23:06:47.215Z",
-      "birthTime": "2018-08-13T23:06:47.215Z",
+      "size": 1111,
+      "prettySize": "1.11 kB",
+      "modifiedTime": "2018-08-14T21:18:45.461Z",
+      "accessTime": "2018-08-14T21:18:30.693Z",
+      "changeTime": "2018-08-14T21:18:45.461Z",
+      "birthTime": "2018-08-14T21:18:45.461Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "blog.js",
@@ -2430,14 +2430,14 @@
       "blksize": 4096,
       "ino": 2133954,
       "blocks": 24,
-      "atimeMs": 1534201602791.6086,
-      "mtimeMs": 1534201607215.409,
-      "ctimeMs": 1534201607215.409,
-      "birthtimeMs": 1534201607215.409,
-      "atime": "2018-08-13T23:06:42.792Z",
-      "mtime": "2018-08-13T23:06:47.215Z",
-      "ctime": "2018-08-13T23:06:47.215Z",
-      "birthtime": "2018-08-13T23:06:47.215Z"
+      "atimeMs": 1534281510693.3381,
+      "mtimeMs": 1534281525460.9255,
+      "ctimeMs": 1534281525460.9255,
+      "birthtimeMs": 1534281525460.9255,
+      "atime": "2018-08-14T21:18:30.693Z",
+      "mtime": "2018-08-14T21:18:45.461Z",
+      "ctime": "2018-08-14T21:18:45.461Z",
+      "birthtime": "2018-08-14T21:18:45.461Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js absPath of file",
@@ -6998,6 +6998,51 @@
       "ctime": "2018-08-14T08:09:51.917Z",
       "birthtime": "2018-08-14T08:09:51.917Z"
     },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/project-post.js absPath of file": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/project-post.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3039b25b93a4047eb7dbfc26be44e5f8",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/templates/project-post.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/project-post.js",
+      "relativePath": "templates/project-post.js",
+      "extension": "js",
+      "size": 492,
+      "prettySize": "492 B",
+      "modifiedTime": "2018-08-14T21:16:29.256Z",
+      "accessTime": "2018-08-14T21:05:42.983Z",
+      "changeTime": "2018-08-14T21:16:29.256Z",
+      "birthTime": "2018-08-14T21:16:29.256Z",
+      "root": "/",
+      "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates",
+      "base": "project-post.js",
+      "ext": ".js",
+      "name": "project-post",
+      "relativeDirectory": "templates",
+      "dev": 42,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2134257,
+      "blocks": 24,
+      "atimeMs": 1534280742983.4697,
+      "mtimeMs": 1534281389255.7197,
+      "ctimeMs": 1534281389255.7197,
+      "birthtimeMs": 1534281389255.7197,
+      "atime": "2018-08-14T21:05:42.983Z",
+      "mtime": "2018-08-14T21:16:29.256Z",
+      "ctime": "2018-08-14T21:16:29.256Z",
+      "birthtime": "2018-08-14T21:16:29.256Z"
+    },
     "SitePage /2017-06-23-rick-boshae-site-launched/": {
       "layout": "index",
       "jsonName": "2017-06-23-rick-boshae-site-launched.json",
@@ -7016,7 +7061,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cd80b62bd10df3cdf1f34113754745dc",
+        "contentDigest": "14196511a3e5876031dcc652aaf47148",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7039,7 +7084,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a12a2276ff5d791b480832fa860d61b2",
+        "contentDigest": "559f8715744aada8cb4638822a0f86ac",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7062,7 +7107,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1c962ec24e3161744698f9c2b5a8ccea",
+        "contentDigest": "d667118a1986542dd0484cc2ef12fb5c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7085,7 +7130,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e4269dcbdabf5e2f9d15a60f71b739f",
+        "contentDigest": "028539e9d930eeb7a1c9f084c6b89104",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7108,7 +7153,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d74cbbe28d23dc4c25711f6703259664",
+        "contentDigest": "30d67bd44e2dc5778083ccc5b1b28ee7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7131,7 +7176,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "40b3075634f45e6f151568d5db958270",
+        "contentDigest": "e3aaa52bae4db783c4962fd7dbd40fd1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7154,7 +7199,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fa5ce6c0a167762d25d065ab898b7d0b",
+        "contentDigest": "d8833c41ba51cad7d39577522185b6f8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7177,7 +7222,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8657e553131b7f73c0a0e3068f2c982f",
+        "contentDigest": "be626e2f7153101e50743d633b04e721",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7198,7 +7243,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1c5575fa745a4425f2e98d3367430ea9",
+        "contentDigest": "a6351cec098d897cc0ee14914194efa4",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7219,7 +7264,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95e6cc8ce047af219eb4692d23d31dd8",
+        "contentDigest": "febb5a449cfe8a0588245c4ddb8c4497",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7240,7 +7285,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "037f6cf03940117165c2cfd2282bf714",
+        "contentDigest": "fb1b6015f5a1e6dc07542a95930e5ec9",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7261,7 +7306,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "22287cd010a0372717dd305037bd9183",
+        "contentDigest": "e767eeff429845408b4effb522d627a6",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7282,7 +7327,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0e9405e9720c428b6441765330d4b90b",
+        "contentDigest": "fc40e2961221f66a2354e77d224ecd28",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
