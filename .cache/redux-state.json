@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "66faf9d277c5e18de20b8541c7694cdd",
+        "contentDigest": "56840483324e002c53101e575e9ddfd1",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -766,12 +766,12 @@
       "host": "localhost",
       "pathPrefix": "/rboshae.github.io",
       "polyfill": true,
-      "buildTime": "2018-08-14T07:04:13.270Z",
+      "buildTime": "2018-08-14T07:11:19.515Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c8234cda25523b7d6b18b62edc07f29f",
+        "contentDigest": "7171f39f2d23941862225721021ef844",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2070,7 +2070,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1b79cd5a07466f72acff0d844d3a9ad6",
+        "contentDigest": "7ed98cf8e1a29388ab39efd369a47061",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-06-23-rick-boshae-site-launched.md\"",
@@ -2080,19 +2080,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md",
       "relativePath": "pages/2017-06-23-rick-boshae-site-launched.md",
       "extension": "md",
-      "size": 306,
-      "prettySize": "306 B",
-      "modifiedTime": "2018-08-10T23:23:46.396Z",
-      "accessTime": "2018-08-11T08:53:59.358Z",
-      "changeTime": "2018-08-11T08:53:59.054Z",
-      "birthTime": "2018-08-11T08:53:59.054Z",
+      "size": 307,
+      "prettySize": "307 B",
+      "modifiedTime": "2018-08-14T07:33:50.986Z",
+      "accessTime": "2018-08-14T07:33:47.554Z",
+      "changeTime": "2018-08-14T07:33:50.986Z",
+      "birthTime": "2018-08-14T07:33:50.986Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-06-23-rick-boshae-site-launched.md",
       "ext": ".md",
       "name": "2017-06-23-rick-boshae-site-launched",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2101,14 +2101,14 @@
       "blksize": 4096,
       "ino": 2133866,
       "blocks": 24,
-      "atimeMs": 1533977639357.8755,
-      "mtimeMs": 1533943426395.68,
-      "ctimeMs": 1533977639053.8584,
-      "birthtimeMs": 1533977639053.8584,
-      "atime": "2018-08-11T08:53:59.358Z",
-      "mtime": "2018-08-10T23:23:46.396Z",
-      "ctime": "2018-08-11T08:53:59.054Z",
-      "birthtime": "2018-08-11T08:53:59.054Z"
+      "atimeMs": 1534232027553.875,
+      "mtimeMs": 1534232030985.7788,
+      "ctimeMs": 1534232030985.7788,
+      "birthtimeMs": 1534232030985.7788,
+      "atime": "2018-08-14T07:33:47.554Z",
+      "mtime": "2018-08-14T07:33:50.986Z",
+      "ctime": "2018-08-14T07:33:50.986Z",
+      "birthtime": "2018-08-14T07:33:50.986Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file",
@@ -2117,7 +2117,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b916b65e5a6fdd8fe26963aa0f020e0f",
+        "contentDigest": "bf0cbf30ef5dd167c6ae294f59b31da6",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md\"",
@@ -2127,19 +2127,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md",
       "relativePath": "pages/2017-06-26-rick-boshae-first-steps-into-web-development.md",
       "extension": "md",
-      "size": 1022,
+      "size": 1024,
       "prettySize": "1.02 kB",
-      "modifiedTime": "2018-08-10T23:23:46.396Z",
-      "accessTime": "2018-08-11T08:53:59.358Z",
-      "changeTime": "2018-08-11T08:53:59.054Z",
-      "birthTime": "2018-08-11T08:53:59.054Z",
+      "modifiedTime": "2018-08-14T07:34:00.566Z",
+      "accessTime": "2018-08-13T22:04:59.208Z",
+      "changeTime": "2018-08-14T07:34:00.566Z",
+      "birthTime": "2018-08-14T07:34:00.566Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-06-26-rick-boshae-first-steps-into-web-development.md",
       "ext": ".md",
       "name": "2017-06-26-rick-boshae-first-steps-into-web-development",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2148,14 +2148,14 @@
       "blksize": 4096,
       "ino": 2133868,
       "blocks": 24,
-      "atimeMs": 1533977639357.8755,
-      "mtimeMs": 1533943426395.68,
-      "ctimeMs": 1533977639053.8584,
-      "birthtimeMs": 1533977639053.8584,
-      "atime": "2018-08-11T08:53:59.358Z",
-      "mtime": "2018-08-10T23:23:46.396Z",
-      "ctime": "2018-08-11T08:53:59.054Z",
-      "birthtime": "2018-08-11T08:53:59.054Z"
+      "atimeMs": 1534197899207.8354,
+      "mtimeMs": 1534232040565.5112,
+      "ctimeMs": 1534232040565.5112,
+      "birthtimeMs": 1534232040565.5112,
+      "atime": "2018-08-13T22:04:59.208Z",
+      "mtime": "2018-08-14T07:34:00.566Z",
+      "ctime": "2018-08-14T07:34:00.566Z",
+      "birthtime": "2018-08-14T07:34:00.566Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file",
@@ -2164,7 +2164,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4b72104a72ef3e6083027a4162628a54",
+        "contentDigest": "ce72a8aa41aaaa4b5529d405c566c58d",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-06-30-rick-boshae-android-css-project.md\"",
@@ -2174,12 +2174,12 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md",
       "relativePath": "pages/2017-06-30-rick-boshae-android-css-project.md",
       "extension": "md",
-      "size": 667,
-      "prettySize": "667 B",
-      "modifiedTime": "2018-08-13T23:13:26.414Z",
-      "accessTime": "2018-08-13T23:13:22.642Z",
-      "changeTime": "2018-08-13T23:13:26.414Z",
-      "birthTime": "2018-08-13T23:13:26.414Z",
+      "size": 700,
+      "prettySize": "700 B",
+      "modifiedTime": "2018-08-14T07:34:03.485Z",
+      "accessTime": "2018-08-14T07:26:36.596Z",
+      "changeTime": "2018-08-14T07:34:03.485Z",
+      "birthTime": "2018-08-14T07:34:03.485Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-06-30-rick-boshae-android-css-project.md",
@@ -2195,14 +2195,14 @@
       "blksize": 4096,
       "ino": 2133869,
       "blocks": 24,
-      "atimeMs": 1534202002642.3853,
-      "mtimeMs": 1534202006414.2964,
-      "ctimeMs": 1534202006414.2964,
-      "birthtimeMs": 1534202006414.2964,
-      "atime": "2018-08-13T23:13:22.642Z",
-      "mtime": "2018-08-13T23:13:26.414Z",
-      "ctime": "2018-08-13T23:13:26.414Z",
-      "birthtime": "2018-08-13T23:13:26.414Z"
+      "atimeMs": 1534231596595.6548,
+      "mtimeMs": 1534232043485.43,
+      "ctimeMs": 1534232043485.43,
+      "birthtimeMs": 1534232043485.43,
+      "atime": "2018-08-14T07:26:36.596Z",
+      "mtime": "2018-08-14T07:34:03.485Z",
+      "ctime": "2018-08-14T07:34:03.485Z",
+      "birthtime": "2018-08-14T07:34:03.485Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file",
@@ -2211,7 +2211,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c7870d3fcf0f628273e334f5efaae2ed",
+        "contentDigest": "5d98d3daf5f5df897dcff3ae1f51f43c",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-07-10-rick-boshae-google-homepage-project.md\"",
@@ -2221,19 +2221,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md",
       "relativePath": "pages/2017-07-10-rick-boshae-google-homepage-project.md",
       "extension": "md",
-      "size": 571,
-      "prettySize": "571 B",
-      "modifiedTime": "2018-08-10T23:23:46.396Z",
-      "accessTime": "2018-08-11T08:53:59.358Z",
-      "changeTime": "2018-08-11T08:53:59.054Z",
-      "birthTime": "2018-08-11T08:53:59.054Z",
+      "size": 618,
+      "prettySize": "618 B",
+      "modifiedTime": "2018-08-14T07:34:05.393Z",
+      "accessTime": "2018-08-14T07:29:55.889Z",
+      "changeTime": "2018-08-14T07:34:05.393Z",
+      "birthTime": "2018-08-14T07:34:05.393Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-07-10-rick-boshae-google-homepage-project.md",
       "ext": ".md",
       "name": "2017-07-10-rick-boshae-google-homepage-project",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2242,14 +2242,14 @@
       "blksize": 4096,
       "ino": 2133871,
       "blocks": 24,
-      "atimeMs": 1533977639357.8755,
-      "mtimeMs": 1533943426395.68,
-      "ctimeMs": 1533977639053.8584,
-      "birthtimeMs": 1533977639053.8584,
-      "atime": "2018-08-11T08:53:59.358Z",
-      "mtime": "2018-08-10T23:23:46.396Z",
-      "ctime": "2018-08-11T08:53:59.054Z",
-      "birthtime": "2018-08-11T08:53:59.054Z"
+      "atimeMs": 1534231795888.7952,
+      "mtimeMs": 1534232045393.377,
+      "ctimeMs": 1534232045393.377,
+      "birthtimeMs": 1534232045393.377,
+      "atime": "2018-08-14T07:29:55.889Z",
+      "mtime": "2018-08-14T07:34:05.393Z",
+      "ctime": "2018-08-14T07:34:05.393Z",
+      "birthtime": "2018-08-14T07:34:05.393Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file",
@@ -2258,7 +2258,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2066d111093a93b1875907bf19434982",
+        "contentDigest": "569b6065c8449693df7dbc04e3a517b3",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-07-24-rick-boshae-learning-javascript.md\"",
@@ -2268,19 +2268,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md",
       "relativePath": "pages/2017-07-24-rick-boshae-learning-javascript.md",
       "extension": "md",
-      "size": 588,
-      "prettySize": "588 B",
-      "modifiedTime": "2018-08-10T23:23:46.396Z",
-      "accessTime": "2018-08-11T08:53:59.358Z",
-      "changeTime": "2018-08-11T08:53:59.054Z",
-      "birthTime": "2018-08-11T08:53:59.054Z",
+      "size": 635,
+      "prettySize": "635 B",
+      "modifiedTime": "2018-08-14T07:34:07.261Z",
+      "accessTime": "2018-08-14T07:30:33.072Z",
+      "changeTime": "2018-08-14T07:34:07.261Z",
+      "birthTime": "2018-08-14T07:34:07.261Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-07-24-rick-boshae-learning-javascript.md",
       "ext": ".md",
       "name": "2017-07-24-rick-boshae-learning-javascript",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2289,14 +2289,14 @@
       "blksize": 4096,
       "ino": 2133872,
       "blocks": 24,
-      "atimeMs": 1533977639357.8755,
-      "mtimeMs": 1533943426395.68,
-      "ctimeMs": 1533977639053.8584,
-      "birthtimeMs": 1533977639053.8584,
-      "atime": "2018-08-11T08:53:59.358Z",
-      "mtime": "2018-08-10T23:23:46.396Z",
-      "ctime": "2018-08-11T08:53:59.054Z",
-      "birthtime": "2018-08-11T08:53:59.054Z"
+      "atimeMs": 1534231833071.6196,
+      "mtimeMs": 1534232047261.325,
+      "ctimeMs": 1534232047261.325,
+      "birthtimeMs": 1534232047261.325,
+      "atime": "2018-08-14T07:30:33.072Z",
+      "mtime": "2018-08-14T07:34:07.261Z",
+      "ctime": "2018-08-14T07:34:07.261Z",
+      "birthtime": "2018-08-14T07:34:07.261Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file",
@@ -2305,7 +2305,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "04d30bb643973496a47d44bcec0af441",
+        "contentDigest": "a7d8c7101fbe71e2d2dc77cc469b5455",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md\"",
@@ -2315,19 +2315,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md",
       "relativePath": "pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md",
       "extension": "md",
-      "size": 1023,
-      "prettySize": "1.02 kB",
-      "modifiedTime": "2018-08-10T23:23:46.396Z",
-      "accessTime": "2018-08-11T08:53:59.358Z",
-      "changeTime": "2018-08-11T08:53:59.054Z",
-      "birthTime": "2018-08-11T08:53:59.054Z",
+      "size": 1070,
+      "prettySize": "1.07 kB",
+      "modifiedTime": "2018-08-14T07:34:10.549Z",
+      "accessTime": "2018-08-14T07:27:30.190Z",
+      "changeTime": "2018-08-14T07:34:10.549Z",
+      "birthTime": "2018-08-14T07:34:10.549Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md",
       "ext": ".md",
       "name": "2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2336,14 +2336,14 @@
       "blksize": 4096,
       "ino": 2133873,
       "blocks": 24,
-      "atimeMs": 1533977639357.8755,
-      "mtimeMs": 1533943426395.68,
-      "ctimeMs": 1533977639053.8584,
-      "birthtimeMs": 1533977639053.8584,
-      "atime": "2018-08-11T08:53:59.358Z",
-      "mtime": "2018-08-10T23:23:46.396Z",
-      "ctime": "2018-08-11T08:53:59.054Z",
-      "birthtime": "2018-08-11T08:53:59.054Z"
+      "atimeMs": 1534231650189.7058,
+      "mtimeMs": 1534232050549.2336,
+      "ctimeMs": 1534232050549.2336,
+      "birthtimeMs": 1534232050549.2336,
+      "atime": "2018-08-14T07:27:30.190Z",
+      "mtime": "2018-08-14T07:34:10.549Z",
+      "ctime": "2018-08-14T07:34:10.549Z",
+      "birthtime": "2018-08-14T07:34:10.549Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file",
@@ -2352,7 +2352,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0ae7100d91951ede66ef9fadc4515dfe",
+        "contentDigest": "19b07a097c88d54267516da80cc366d1",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-08-04-rick-boshae-etch-a-sketch.md\"",
@@ -2362,19 +2362,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md",
       "relativePath": "pages/2017-08-04-rick-boshae-etch-a-sketch.md",
       "extension": "md",
-      "size": 613,
-      "prettySize": "613 B",
-      "modifiedTime": "2018-08-10T23:23:46.396Z",
-      "accessTime": "2018-08-11T08:53:59.358Z",
-      "changeTime": "2018-08-11T08:53:59.058Z",
-      "birthTime": "2018-08-11T08:53:59.058Z",
+      "size": 660,
+      "prettySize": "660 B",
+      "modifiedTime": "2018-08-14T07:34:12.681Z",
+      "accessTime": "2018-08-14T07:31:36.258Z",
+      "changeTime": "2018-08-14T07:34:12.681Z",
+      "birthTime": "2018-08-14T07:34:12.681Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-08-04-rick-boshae-etch-a-sketch.md",
       "ext": ".md",
       "name": "2017-08-04-rick-boshae-etch-a-sketch",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2383,14 +2383,14 @@
       "blksize": 4096,
       "ino": 2133874,
       "blocks": 24,
-      "atimeMs": 1533977639357.8755,
-      "mtimeMs": 1533943426395.68,
-      "ctimeMs": 1533977639057.8586,
-      "birthtimeMs": 1533977639057.8586,
-      "atime": "2018-08-11T08:53:59.358Z",
-      "mtime": "2018-08-10T23:23:46.396Z",
-      "ctime": "2018-08-11T08:53:59.058Z",
-      "birthtime": "2018-08-11T08:53:59.058Z"
+      "atimeMs": 1534231896257.6838,
+      "mtimeMs": 1534232052681.1746,
+      "ctimeMs": 1534232052681.1746,
+      "birthtimeMs": 1534232052681.1746,
+      "atime": "2018-08-14T07:31:36.258Z",
+      "mtime": "2018-08-14T07:34:12.681Z",
+      "ctime": "2018-08-14T07:34:12.681Z",
+      "birthtime": "2018-08-14T07:34:12.681Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file",
@@ -2399,7 +2399,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "387840f8e03a84fea904796ea649b606",
+        "contentDigest": "ef7c4525004948606d9941848311257a",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/2017-11-25-playing-with-react.md\"",
@@ -2409,19 +2409,19 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md",
       "relativePath": "pages/2017-11-25-playing-with-react.md",
       "extension": "md",
-      "size": 1991,
+      "size": 1992,
       "prettySize": "1.99 kB",
-      "modifiedTime": "2018-08-10T23:23:46.396Z",
-      "accessTime": "2018-08-11T08:53:59.358Z",
-      "changeTime": "2018-08-11T08:53:59.058Z",
-      "birthTime": "2018-08-11T08:53:59.058Z",
+      "modifiedTime": "2018-08-14T07:34:42.212Z",
+      "accessTime": "2018-08-14T07:34:16.521Z",
+      "changeTime": "2018-08-14T07:34:42.212Z",
+      "birthTime": "2018-08-14T07:34:42.212Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages",
       "base": "2017-11-25-playing-with-react.md",
       "ext": ".md",
       "name": "2017-11-25-playing-with-react",
       "relativeDirectory": "pages",
-      "dev": 43,
+      "dev": 42,
       "mode": 33204,
       "nlink": 1,
       "uid": 1000,
@@ -2430,14 +2430,14 @@
       "blksize": 4096,
       "ino": 2133875,
       "blocks": 24,
-      "atimeMs": 1533977639357.8755,
-      "mtimeMs": 1533943426395.68,
-      "ctimeMs": 1533977639057.8586,
-      "birthtimeMs": 1533977639057.8586,
-      "atime": "2018-08-11T08:53:59.358Z",
-      "mtime": "2018-08-10T23:23:46.396Z",
-      "ctime": "2018-08-11T08:53:59.058Z",
-      "birthtime": "2018-08-11T08:53:59.058Z"
+      "atimeMs": 1534232056521.0684,
+      "mtimeMs": 1534232082212.3618,
+      "ctimeMs": 1534232082212.3618,
+      "birthtimeMs": 1534232082212.3618,
+      "atime": "2018-08-14T07:34:16.521Z",
+      "mtime": "2018-08-14T07:34:42.212Z",
+      "ctime": "2018-08-14T07:34:42.212Z",
+      "birthtime": "2018-08-14T07:34:42.212Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js absPath of file",
@@ -3248,195 +3248,6 @@
       "mtime": "2017-12-29T20:58:26.873Z",
       "ctime": "2018-08-10T22:37:57.429Z",
       "birthtime": "2018-08-10T22:37:57.429Z"
-    },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"Rick Boshae, Launches Site\"\ndate: 2017-06-23\n---\n\nWell. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekylrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "22d046e60c10d7316c170222dc3290ea",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Rick Boshae, Launches Site",
-        "layout": "post",
-        "date": "2017-06-23T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nWell. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekylrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.\n",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md",
-      "fields": {
-        "slug": "/2017-06-23-rick-boshae-site-launched/"
-      }
-    },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"First Steps Into Web Development\"\ndate: 2017-06-26\n---\n\nToday, well... last night technically marks my first steps into Web Dev. After doing a few Google searches and some reading on Reddit I found a plentiful amount of wonderful resources. One in particular that has stood out is [The Odin Project](https://www.theodinproject.com/courses/web-development-101). So far it looks like a promising guide to understanding Web Dev. My expectations were originally to understand HTML and CSS but the guide also gives a good intro to Javascript - very exciting!\n\nI am super eager to read further into the guide and do some learning!\n\nOn a side note, here's a great video I enjoyed watching that was suggested by the site and produced by [Khan Academy](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart).\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JC82Il2cjqA\" frameborder=\"0\" allowfullscreen></iframe>",
-        "type": "MarkdownRemark",
-        "contentDigest": "fa773a8b0c2527a9e7169bdbf08ea90c",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "First Steps Into Web Development",
-        "layout": "post",
-        "date": "2017-06-26T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nToday, well... last night technically marks my first steps into Web Dev. After doing a few Google searches and some reading on Reddit I found a plentiful amount of wonderful resources. One in particular that has stood out is [The Odin Project](https://www.theodinproject.com/courses/web-development-101). So far it looks like a promising guide to understanding Web Dev. My expectations were originally to understand HTML and CSS but the guide also gives a good intro to Javascript - very exciting!\n\nI am super eager to read further into the guide and do some learning!\n\nOn a side note, here's a great video I enjoyed watching that was suggested by the site and produced by [Khan Academy](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart).\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JC82Il2cjqA\" frameborder=\"0\" allowfullscreen></iframe>",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md",
-      "fields": {
-        "slug": "/2017-06-26-rick-boshae-first-steps-into-web-development/"
-      }
-    },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"Google Homepage Project\"\ndate: 2017-07-10\n---\n\nAlright, another project almost done. I decided to recreate the famous google homepage. This one was a bit tougher since I resisted inspecting the html code. I am glad to say that my work is paying off. Although this project is still a WIP I thought I'd share what I have done so far.\n\nUpdate 7-11-2017: The project is now complete.\n<iframe src=\"/projects/google-homepage/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-        "type": "MarkdownRemark",
-        "contentDigest": "7770f4685d808283256ef7e6fdd3b44a",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Google Homepage Project",
-        "layout": "post",
-        "date": "2017-07-10T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nAlright, another project almost done. I decided to recreate the famous google homepage. This one was a bit tougher since I resisted inspecting the html code. I am glad to say that my work is paying off. Although this project is still a WIP I thought I'd share what I have done so far.\n\nUpdate 7-11-2017: The project is now complete.\n<iframe src=\"/projects/google-homepage/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md",
-      "fields": {
-        "slug": "/2017-07-10-rick-boshae-google-homepage-project/"
-      }
-    },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"Learning Javascript\"\ndate: 2017-07-24\n---\n\nWoohoo! I've started incorporating some javascript into my projects. I have to give a big thank you to [code academy](https://www.codecademy.com/learn) for their javascript tutorial. Given my background in programming, it was very easy to pick up. So far I've used javascript to solve problems on ProjectEuler.net and add some cool interactive features to my webpage.\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"/projects/project-euler/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-        "type": "MarkdownRemark",
-        "contentDigest": "6e82715076de0b5104e709cfd290bd6b",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Learning Javascript",
-        "layout": "post",
-        "date": "2017-07-24T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nWoohoo! I've started incorporating some javascript into my projects. I have to give a big thank you to [code academy](https://www.codecademy.com/learn) for their javascript tutorial. Given my background in programming, it was very easy to pick up. So far I've used javascript to solve problems on ProjectEuler.net and add some cool interactive features to my webpage.\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"/projects/project-euler/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md",
-      "fields": {
-        "slug": "/2017-07-24-rick-boshae-learning-javascript/"
-      }
-    },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"jQuery Interactive Slider\"\ndate: 2017-07-31\n---\n\nToday marks another step forward in my path to web development. Here is an interactive slider I built using html, CSS, javascript, and jQuery. To accompish the task I followed a short series of [video tutorials](https://www.youtube.com/watch?v=QtYP_eSVKfs). The main takeaway from the tutorial is the use of jQuery.\n\nIn short, jQuery is a javascript library and a great shortcut to making an interactive website. While following the videos, I noticed that some of the content was outdated so I had to scroll through this [jQuery cheatsheet](http://overapi.com/jquery) to get some parts working properly.\n\nShould you decide to attempt the tutorial yourself be sure to change the bit about '.size()' to '.length' (and yes I purposely excluded the '()' in .length).\n\nWithout further ado here's the slider. \n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"/projects/slider/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-        "type": "MarkdownRemark",
-        "contentDigest": "a542094810c4df283e380ba9fdde3187",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "jQuery Interactive Slider",
-        "layout": "post",
-        "date": "2017-07-31T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nToday marks another step forward in my path to web development. Here is an interactive slider I built using html, CSS, javascript, and jQuery. To accompish the task I followed a short series of [video tutorials](https://www.youtube.com/watch?v=QtYP_eSVKfs). The main takeaway from the tutorial is the use of jQuery.\n\nIn short, jQuery is a javascript library and a great shortcut to making an interactive website. While following the videos, I noticed that some of the content was outdated so I had to scroll through this [jQuery cheatsheet](http://overapi.com/jquery) to get some parts working properly.\n\nShould you decide to attempt the tutorial yourself be sure to change the bit about '.size()' to '.length' (and yes I purposely excluded the '()' in .length).\n\nWithout further ado here's the slider. \n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"/projects/slider/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md",
-      "fields": {
-        "slug": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/"
-      }
-    },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"Etch-A-Sketch\"\ndate: 2017-08-04\n---\n\nOh man this project was pretty intense. Here, I've created an interactive cross between an etch-a-sketch and paint. I used html, CSS, javascript, and jQuery to put it together. The project was a lot of fun and quite challenging since there were no tutorials to follow. I was forced to rely on heavy trial and error and Googling! I hope you'll have as much fun playing with this as I did making it.\n\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"/projects/etch-a-sketch/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-        "type": "MarkdownRemark",
-        "contentDigest": "bf4cc7e55124d1f96ab7299bb605f723",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Etch-A-Sketch",
-        "layout": "post",
-        "date": "2017-08-04T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nOh man this project was pretty intense. Here, I've created an interactive cross between an etch-a-sketch and paint. I used html, CSS, javascript, and jQuery to put it together. The project was a lot of fun and quite challenging since there were no tutorials to follow. I was forced to rely on heavy trial and error and Googling! I hope you'll have as much fun playing with this as I did making it.\n\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"/projects/etch-a-sketch/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md",
-      "fields": {
-        "slug": "/2017-08-04-rick-boshae-etch-a-sketch/"
-      }
-    },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"Building my first Webapp With React\"\ndate: 2017-11-25\n---\n\nSchool is back in session and keeping up with my blog has been tough. This quarter in particular is a busy one. I'm learning Graphics, Operating Systems, Software Engineering, and Technical Communication. It really is a big time requirement but so much fun. On the plus side, I've gained a new set of skills to sharpen.\n\nA very neat project I've been working on for the past 5 weeks is [Huddle](http://huddlereflex.me/) (-- be nice! Huddle is in alpha ). Inspired by Trello, Huddle is a collaborative tool that organizes projects into boards. Each board is made up of columns (or lists) which hold a set of cards that correspond to user stories or tasks.\n\n<img style=\"margin: auto;\n    display: flex;\" src=\"https://raw.githubusercontent.com/RBoshae/RBoshae.github.io/master/images/Huddle-Board-View.png\" alt=\"Huddle Board View\" height=\"85%\" width=\"85%\">\n\nI designed the webapp with four other CS students at UC Riverside.\nThis is one of the first major projects I've worked on with my peers at UCR. It was a great way to practice team skills and dividing a large project into manageable parts. I am super grateful for taking a Software Engineering course and recommend it to everyone.\n\nThe best part about building Huddle was learning how to program with [React](https://reactjs.org/) and incorporating [Firebase](https://firebase.google.com/). If you've been thinking about using React to build a webapp of your own I absolutely recommend it. A big shoutout to Google for Firebase too, it is so great! To get started on React I followed this [tutorial](https://reactjs.org/tutorial/tutorial.html) by the reactjs site. CSS-Tricks has a life saving [Intro to Firebase and React](https://css-tricks.com/intro-firebase-react/) article.\n\n\n[Huddle]: <https://github.com/ReflexCS180/ReflexManagment>\n[git-repo-url]: <https://github.com/ReflexCS180/ReflexManagment.git>\n[rick boshae]: <https://github.com/rboshae>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "e94f08426d062b979bfc911d02089986",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Building my first Webapp With React",
-        "layout": "post",
-        "date": "2017-11-25T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nSchool is back in session and keeping up with my blog has been tough. This quarter in particular is a busy one. I'm learning Graphics, Operating Systems, Software Engineering, and Technical Communication. It really is a big time requirement but so much fun. On the plus side, I've gained a new set of skills to sharpen.\n\nA very neat project I've been working on for the past 5 weeks is [Huddle](http://huddlereflex.me/) (-- be nice! Huddle is in alpha ). Inspired by Trello, Huddle is a collaborative tool that organizes projects into boards. Each board is made up of columns (or lists) which hold a set of cards that correspond to user stories or tasks.\n\n<img style=\"margin: auto;\n    display: flex;\" src=\"https://raw.githubusercontent.com/RBoshae/RBoshae.github.io/master/images/Huddle-Board-View.png\" alt=\"Huddle Board View\" height=\"85%\" width=\"85%\">\n\nI designed the webapp with four other CS students at UC Riverside.\nThis is one of the first major projects I've worked on with my peers at UCR. It was a great way to practice team skills and dividing a large project into manageable parts. I am super grateful for taking a Software Engineering course and recommend it to everyone.\n\nThe best part about building Huddle was learning how to program with [React](https://reactjs.org/) and incorporating [Firebase](https://firebase.google.com/). If you've been thinking about using React to build a webapp of your own I absolutely recommend it. A big shoutout to Google for Firebase too, it is so great! To get started on React I followed this [tutorial](https://reactjs.org/tutorial/tutorial.html) by the reactjs site. CSS-Tricks has a life saving [Intro to Firebase and React](https://css-tricks.com/intro-firebase-react/) article.\n\n\n[Huddle]: <https://github.com/ReflexCS180/ReflexManagment>\n[git-repo-url]: <https://github.com/ReflexCS180/ReflexManagment.git>\n[rick boshae]: <https://github.com/rboshae>\n",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md",
-      "fields": {
-        "slug": "/2017-11-25-playing-with-react/"
-      }
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/assets/images/projects/Breakout/BG-700x400.png absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/assets/images/projects/Breakout/BG-700x400.png absPath of file",
@@ -6926,33 +6737,6 @@
       "ctime": "2018-08-13T23:12:00.364Z",
       "birthtime": "2018-08-13T23:12:00.364Z"
     },
-    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file",
-      "internal": {
-        "content": "---\nlayout: post\ntitle: \"Android CSS Project\"\ndate: 2017-06-30\n---\n\nIt has been very exciting learning the in's and out's of HTML and CSS. It is amazing how powerful CSS can be when designing a site. I found a neat tutorial, written by the [Code Player](http://thecodeplayer.com/), that spotlights some of the controls CSS provides.  Here's an Android logo I built using just HTML and CSS by watching [this cool video](http://thecodeplayer.com/walkthrough/css3-android-logo) from the site.\n<iframe src=\"../src/assets/projects/android-logo/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "6c2f66bb9b8e3bb189c7280a468ea7d1",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Android CSS Project",
-        "layout": "post",
-        "date": "2017-06-30T00:00:00.000Z",
-        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file",
-        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nIt has been very exciting learning the in's and out's of HTML and CSS. It is amazing how powerful CSS can be when designing a site. I found a neat tutorial, written by the [Code Player](http://thecodeplayer.com/), that spotlights some of the controls CSS provides.  Here's an Android logo I built using just HTML and CSS by watching [this cool video](http://thecodeplayer.com/walkthrough/css3-android-logo) from the site.\n<iframe src=\"../src/assets/projects/android-logo/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n",
-      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md",
-      "fields": {
-        "slug": "/2017-06-30-rick-boshae-android-css-project/"
-      }
-    },
     "SitePage /2017-06-23-rick-boshae-site-launched/": {
       "layout": "index",
       "jsonName": "2017-06-23-rick-boshae-site-launched.json",
@@ -6971,7 +6755,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "52eb4b05d20b0af791953f80e79d9b17",
+        "contentDigest": "2411a47833ddc5e6653e631ffe920bc1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6994,7 +6778,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9aea6a63ba6a9920bc0bd933f9682c54",
+        "contentDigest": "4215c298dfc5416161535e94c61f5781",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7017,7 +6801,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c32f9841f93d8d7675d973a6e31f166",
+        "contentDigest": "a27b09c8695501682ff580fd19317583",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7040,7 +6824,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1775d51f311ac8e5cedaf07cac5036da",
+        "contentDigest": "75ce121c11a4a0ca6fe8b3411c305d91",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7063,7 +6847,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7ea46e349d7fd9209b91712640c4be5a",
+        "contentDigest": "d875d8db50d4a7cf81a09c007444695e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7086,7 +6870,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d57bae22bcba257e53a21935b59e2e4e",
+        "contentDigest": "837c264361360ceff49ac3c4d042de8b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7109,7 +6893,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8c03c248f2283ee75665ff7d1a18e446",
+        "contentDigest": "d3396409b2c862bd8a849c81a48f87f1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7132,7 +6916,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3b33168c4635cdc681d217c95eda1662",
+        "contentDigest": "0504a90ae2279099f9abf08c7a36048b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -7153,7 +6937,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "68965411f6b4337a7b22bd9d0958056f",
+        "contentDigest": "9649d1cf906cdb4b52b40ff3584bee2d",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7174,7 +6958,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fa40c66336aa2c290a26afe2653c08b6",
+        "contentDigest": "533b0215ff86d7ea7d4a1dfa7b485504",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7195,7 +6979,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "91f0b89b0258ca5b1984d55ba6ead5e6",
+        "contentDigest": "79dd7d4f3ba4c69117ec9f811f4e452d",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7216,7 +7000,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17d685038c95abba15b0321b19ac8970",
+        "contentDigest": "d5f672f1376b8daa0a0b9a54c7c5ac77",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -7237,9 +7021,225 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ba33f7fd7c1f9903ed8fe4971fa11b2",
+        "contentDigest": "cf1286d1a233ad101fa251ed0718f523",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"Rick Boshae, Launches Site\"\ndate: 2017-06-23\n---\n\nWell. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekylrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be. \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "200ba6a18616e5ca7b94408e3d597664",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Rick Boshae, Launches Site",
+        "layout": "post",
+        "date": "2017-06-23T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nWell. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekylrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be. \n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-23-rick-boshae-site-launched.md",
+      "fields": {
+        "slug": "/2017-06-23-rick-boshae-site-launched/"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"First Steps Into Web Development\"\ndate: 2017-06-26\n---\n\nToday, well... last night technically marks my first steps into Web Dev. After doing a few Google searches and some reading on Reddit I found a plentiful amount of wonderful resources. One in particular that has stood out is [The Odin Project](https://www.theodinproject.com/courses/web-development-101). So far it looks like a promising guide to understanding Web Dev. My expectations were originally to understand HTML and CSS but the guide also gives a good intro to Javascript - very exciting!\n\nI am super eager to read further into the guide and do some learning!\n\nOn a side note, here's a great video I enjoyed watching that was suggested by the site and produced by [Khan Academy](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart).\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JC82Il2cjqA\" frameborder=\"0\" allowfullscreen></iframe> \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9ed742bbd3bf07967970f8a87d58012e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "First Steps Into Web Development",
+        "layout": "post",
+        "date": "2017-06-26T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nToday, well... last night technically marks my first steps into Web Dev. After doing a few Google searches and some reading on Reddit I found a plentiful amount of wonderful resources. One in particular that has stood out is [The Odin Project](https://www.theodinproject.com/courses/web-development-101). So far it looks like a promising guide to understanding Web Dev. My expectations were originally to understand HTML and CSS but the guide also gives a good intro to Javascript - very exciting!\n\nI am super eager to read further into the guide and do some learning!\n\nOn a side note, here's a great video I enjoyed watching that was suggested by the site and produced by [Khan Academy](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart).\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JC82Il2cjqA\" frameborder=\"0\" allowfullscreen></iframe> \n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-26-rick-boshae-first-steps-into-web-development.md",
+      "fields": {
+        "slug": "/2017-06-26-rick-boshae-first-steps-into-web-development/"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"Android CSS Project\"\ndate: 2017-06-30\n---\n\nIt has been very exciting learning the in's and out's of HTML and CSS. It is amazing how powerful CSS can be when designing a site. I found a neat tutorial, written by the [Code Player](http://thecodeplayer.com/), that spotlights some of the controls CSS provides.  Here's an Android logo I built using just HTML and CSS by watching [this cool video](http://thecodeplayer.com/walkthrough/css3-android-logo) from the site.\n<iframe src=\"https://rboshae.github.io/Personal-Website-1/projects/android-logo/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "eb81e32001869ec63b3ff228da1039c9",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Android CSS Project",
+        "layout": "post",
+        "date": "2017-06-30T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nIt has been very exciting learning the in's and out's of HTML and CSS. It is amazing how powerful CSS can be when designing a site. I found a neat tutorial, written by the [Code Player](http://thecodeplayer.com/), that spotlights some of the controls CSS provides.  Here's an Android logo I built using just HTML and CSS by watching [this cool video](http://thecodeplayer.com/walkthrough/css3-android-logo) from the site.\n<iframe src=\"https://rboshae.github.io/Personal-Website-1/projects/android-logo/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-06-30-rick-boshae-android-css-project.md",
+      "fields": {
+        "slug": "/2017-06-30-rick-boshae-android-css-project/"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"Google Homepage Project\"\ndate: 2017-07-10\n---\n\nAlright, another project almost done. I decided to recreate the famous google homepage. This one was a bit tougher since I resisted inspecting the html code. I am glad to say that my work is paying off. Although this project is still a WIP I thought I'd share what I have done so far.\n\nUpdate 7-11-2017: The project is now complete.\n<iframe src=\"https://rboshae.github.io/Personal-Website-1/projects/google-homepage/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "bd860bfdaff9c5b1623c824a6c799c10",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Google Homepage Project",
+        "layout": "post",
+        "date": "2017-07-10T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nAlright, another project almost done. I decided to recreate the famous google homepage. This one was a bit tougher since I resisted inspecting the html code. I am glad to say that my work is paying off. Although this project is still a WIP I thought I'd share what I have done so far.\n\nUpdate 7-11-2017: The project is now complete.\n<iframe src=\"https://rboshae.github.io/Personal-Website-1/projects/google-homepage/index.html\" width=\"100%\" height=\"650\" frameborder=\"0\" scrolling=\"no\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-10-rick-boshae-google-homepage-project.md",
+      "fields": {
+        "slug": "/2017-07-10-rick-boshae-google-homepage-project/"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"Learning Javascript\"\ndate: 2017-07-24\n---\n\nWoohoo! I've started incorporating some javascript into my projects. I have to give a big thank you to [code academy](https://www.codecademy.com/learn) for their javascript tutorial. Given my background in programming, it was very easy to pick up. So far I've used javascript to solve problems on ProjectEuler.net and add some cool interactive features to my webpage.\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"https://rboshae.github.io/Personal-Website-1/projects/project-euler/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3a213115e560d9d395f9ab66f00c92ae",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Learning Javascript",
+        "layout": "post",
+        "date": "2017-07-24T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nWoohoo! I've started incorporating some javascript into my projects. I have to give a big thank you to [code academy](https://www.codecademy.com/learn) for their javascript tutorial. Given my background in programming, it was very easy to pick up. So far I've used javascript to solve problems on ProjectEuler.net and add some cool interactive features to my webpage.\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"https://rboshae.github.io/Personal-Website-1/projects/project-euler/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-24-rick-boshae-learning-javascript.md",
+      "fields": {
+        "slug": "/2017-07-24-rick-boshae-learning-javascript/"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"jQuery Interactive Slider\"\ndate: 2017-07-31\n---\n\nToday marks another step forward in my path to web development. Here is an interactive slider I built using html, CSS, javascript, and jQuery. To accompish the task I followed a short series of [video tutorials](https://www.youtube.com/watch?v=QtYP_eSVKfs). The main takeaway from the tutorial is the use of jQuery.\n\nIn short, jQuery is a javascript library and a great shortcut to making an interactive website. While following the videos, I noticed that some of the content was outdated so I had to scroll through this [jQuery cheatsheet](http://overapi.com/jquery) to get some parts working properly.\n\nShould you decide to attempt the tutorial yourself be sure to change the bit about '.size()' to '.length' (and yes I purposely excluded the '()' in .length).\n\nWithout further ado here's the slider.\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"https://rboshae.github.io/Personal-Website-1//projects/slider/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "ed9ee61aaf7fb5161d97a5c14eef54e0",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "jQuery Interactive Slider",
+        "layout": "post",
+        "date": "2017-07-31T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nToday marks another step forward in my path to web development. Here is an interactive slider I built using html, CSS, javascript, and jQuery. To accompish the task I followed a short series of [video tutorials](https://www.youtube.com/watch?v=QtYP_eSVKfs). The main takeaway from the tutorial is the use of jQuery.\n\nIn short, jQuery is a javascript library and a great shortcut to making an interactive website. While following the videos, I noticed that some of the content was outdated so I had to scroll through this [jQuery cheatsheet](http://overapi.com/jquery) to get some parts working properly.\n\nShould you decide to attempt the tutorial yourself be sure to change the bit about '.size()' to '.length' (and yes I purposely excluded the '()' in .length).\n\nWithout further ado here's the slider.\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"https://rboshae.github.io/Personal-Website-1//projects/slider/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy.md",
+      "fields": {
+        "slug": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"Etch-A-Sketch\"\ndate: 2017-08-04\n---\n\nOh man this project was pretty intense. Here, I've created an interactive cross between an etch-a-sketch and paint. I used html, CSS, javascript, and jQuery to put it together. The project was a lot of fun and quite challenging since there were no tutorials to follow. I was forced to rely on heavy trial and error and Googling! I hope you'll have as much fun playing with this as I did making it.\n\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"https://rboshae.github.io/Personal-Website-1/projects/etch-a-sketch/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "7d9dd1a9424f74d854e025cb7851ba99",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Etch-A-Sketch",
+        "layout": "post",
+        "date": "2017-08-04T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nOh man this project was pretty intense. Here, I've created an interactive cross between an etch-a-sketch and paint. I used html, CSS, javascript, and jQuery to put it together. The project was a lot of fun and quite challenging since there were no tutorials to follow. I was forced to rely on heavy trial and error and Googling! I hope you'll have as much fun playing with this as I did making it.\n\n\n<iframe width=\"100%\" height=\"720px\" frameborder=\"0\" src=\"https://rboshae.github.io/Personal-Website-1/projects/etch-a-sketch/index.html\">\n  <p>Your browser does not support iframes.</p>\n</iframe>\n \n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-08-04-rick-boshae-etch-a-sketch.md",
+      "fields": {
+        "slug": "/2017-08-04-rick-boshae-etch-a-sketch/"
+      }
+    },
+    "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file",
+      "internal": {
+        "content": "---\nlayout: post\ntitle: \"Building my first Webapp With React\"\ndate: 2017-11-25\n---\n\nSchool is back in session and keeping up with my blog has been tough. This quarter in particular is a busy one. I'm learning Graphics, Operating Systems, Software Engineering, and Technical Communication. It really is a big time requirement but so much fun. On the plus side, I've gained a new set of skills to sharpen.\n\nA very neat project I've been working on for the past 5 weeks is [Huddle](http://huddlereflex.me/) (-- be nice! Huddle is in alpha ). Inspired by Trello, Huddle is a collaborative tool that organizes projects into boards. Each board is made up of columns (or lists) which hold a set of cards that correspond to user stories or tasks.\n\n<img style=\"margin: auto;\n    display: flex;\" src=\"https://raw.githubusercontent.com/RBoshae/Personal-Website-1/master/images/Huddle-Board-View.png\" alt=\"Huddle Board View\" height=\"85%\" width=\"85%\">\n\nI designed the webapp with four other CS students at UC Riverside.\nThis is one of the first major projects I've worked on with my peers at UCR. It was a great way to practice team skills and dividing a large project into manageable parts. I am super grateful for taking a Software Engineering course and recommend it to everyone.\n\nThe best part about building Huddle was learning how to program with [React](https://reactjs.org/) and incorporating [Firebase](https://firebase.google.com/). If you've been thinking about using React to build a webapp of your own I absolutely recommend it. A big shoutout to Google for Firebase too, it is so great! To get started on React I followed this [tutorial](https://reactjs.org/tutorial/tutorial.html) by the reactjs site. CSS-Tricks has a life saving [Intro to Firebase and React](https://css-tricks.com/intro-firebase-react/) article.\n\n\n[Huddle]: <https://github.com/ReflexCS180/ReflexManagment>\n[git-repo-url]: <https://github.com/ReflexCS180/ReflexManagment.git>\n[rick boshae]: <https://github.com/rboshae>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "91e1c8d44b82e7bc98b3b67cd1356a66",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Building my first Webapp With React",
+        "layout": "post",
+        "date": "2017-11-25T00:00:00.000Z",
+        "_PARENT": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file",
+        "parent": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nSchool is back in session and keeping up with my blog has been tough. This quarter in particular is a busy one. I'm learning Graphics, Operating Systems, Software Engineering, and Technical Communication. It really is a big time requirement but so much fun. On the plus side, I've gained a new set of skills to sharpen.\n\nA very neat project I've been working on for the past 5 weeks is [Huddle](http://huddlereflex.me/) (-- be nice! Huddle is in alpha ). Inspired by Trello, Huddle is a collaborative tool that organizes projects into boards. Each board is made up of columns (or lists) which hold a set of cards that correspond to user stories or tasks.\n\n<img style=\"margin: auto;\n    display: flex;\" src=\"https://raw.githubusercontent.com/RBoshae/Personal-Website-1/master/images/Huddle-Board-View.png\" alt=\"Huddle Board View\" height=\"85%\" width=\"85%\">\n\nI designed the webapp with four other CS students at UC Riverside.\nThis is one of the first major projects I've worked on with my peers at UCR. It was a great way to practice team skills and dividing a large project into manageable parts. I am super grateful for taking a Software Engineering course and recommend it to everyone.\n\nThe best part about building Huddle was learning how to program with [React](https://reactjs.org/) and incorporating [Firebase](https://firebase.google.com/). If you've been thinking about using React to build a webapp of your own I absolutely recommend it. A big shoutout to Google for Firebase too, it is so great! To get started on React I followed this [tutorial](https://reactjs.org/tutorial/tutorial.html) by the reactjs site. CSS-Tricks has a life saving [Intro to Firebase and React](https://css-tricks.com/intro-firebase-react/) article.\n\n\n[Huddle]: <https://github.com/ReflexCS180/ReflexManagment>\n[git-repo-url]: <https://github.com/ReflexCS180/ReflexManagment.git>\n[rick boshae]: <https://github.com/rboshae>\n",
+      "fileAbsolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/2017-11-25-playing-with-react.md",
+      "fields": {
+        "slug": "/2017-11-25-playing-with-react/"
       }
     }
   },

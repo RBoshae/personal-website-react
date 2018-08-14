@@ -10,8 +10,9 @@ In short, jQuery is a javascript library and a great shortcut to making an inter
 
 Should you decide to attempt the tutorial yourself be sure to change the bit about '.size()' to '.length' (and yes I purposely excluded the '()' in .length).
 
-Without further ado here's the slider. 
+Without further ado here's the slider.
 
-<iframe width="100%" height="720px" frameborder="0" src="/projects/slider/index.html">
+<iframe width="100%" height="720px" frameborder="0" src="https://rboshae.github.io/Personal-Website-1//projects/slider/index.html">
   <p>Your browser does not support iframes.</p>
 </iframe>
+ 
