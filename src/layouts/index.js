@@ -35,12 +35,12 @@ const Layout = ({ children, data }) => (
           <h3 style={{ display: 'inline'}}>{data.site.siteMetadata.title}</h3>
         </Link>
         <ul style={{ listStyle: 'none', float: 'right'}}>
-          <ListLink to="/">Projects</ListLink>
-          <ListLink to="/">Experience</ListLink>
-          <ListLink to="/">Education</ListLink>
-          <ListLink to="/">Honors & Awards</ListLink>
+          <ListLink to="/#portfolio">Portfolio</ListLink>
+          <ListLink to="/#tech">Tech</ListLink>
+          <ListLink to="/#education">Education</ListLink>
+          <ListLink to="/#honors">Honors & Awards</ListLink>
           <ListLink to="/blog">Blog</ListLink>
-          <ListLink to="/">Contact</ListLink>
+          <ListLink to="/#contact">Contact</ListLink>
         </ul>
       </header>
 

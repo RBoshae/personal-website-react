@@ -19,7 +19,7 @@ const projectsContainer = {
 };
 
 
-class Projects extends React.Component {
+class Portfolio extends React.Component {
   constructor() {
     super();
     this.state = {
@@ -162,8 +162,8 @@ class Projects extends React.Component {
     console.log('After Map')
     console.log(projectItems); // Debugging
     return (
-      <section id="projects">
-          <h1>Projects</h1>
+      <section id="portfolio">
+          <h1>Portfolio</h1>
           <table id="projectTable">
             <thead>
             </thead>
@@ -176,4 +176,4 @@ class Projects extends React.Component {
   }
 }
 
-export default Projects;
+export default Portfolio;

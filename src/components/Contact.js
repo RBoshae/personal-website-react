@@ -6,7 +6,7 @@ const constactStyle = {
 
 const Contact = () => {
   return(
-    <div>
+    <section id="contact">
       <h1>Contact</h1>
       <div id="contactMessage">
         <p>If you think I might be a good fit at your company or are interested in speaking with me feel free to send me an email.</p>
@@ -31,7 +31,7 @@ const Contact = () => {
           </div>
         </form>
       </div>*/}
-    </div>
+    </section>
   )
 }
 
