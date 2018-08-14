@@ -32,21 +32,21 @@ class Portfolio extends React.Component {
     this.setState({ projects:[
       {
         title: "Huddle: Team Management",
-        descirption: "Huddle is a Kanban web application written in React, HTML, CSS, and JavaScript.",
+        descirption: "A collaborative tool for managing projects.",
         languages: ["React", "HTML", "CSS", "JavaScript"],
         pictureLink: Huddle,
         lastUpdate: "Nov 25, 2017"
       },
       {
         title: "Breakout",
-        descirption: "I recreated the good ol' Atari game Breakout. Every bit of this project was wired by hand and coded from scratch. My favorite part of the project was reverse engineering the Nintendo controller.",
+        descirption: "The good ol' Atari game reinvented. Every bit was hand wired and programmed from scratch. The best part - reverse engineering the Nintendo controller.",
         languages: ["C", "Embedded Systems"],
         pictureLink: Breakout,
         lastUpdate: "June 2017"
       },
       {
         title: "Feature Optimizer",
-        descirption: "I wrote a search algorithm in C++ to eliminate irrelevant features in a nearest neight classifier. I used Forward Selection and Backward Selection techniques.",
+        descirption: "A machine learning algorithm that optimizes the nearest neighbor classifier. I use forward and backward selection to drop irrelevant features from the data set.  ",
         languages: ["C++"],
         tags: ["Machine Learning"],
         pictureLink: FeatureSelectionFromNN,
@@ -54,7 +54,7 @@ class Portfolio extends React.Component {
       },
       {
         title: "Sliding Puzzle Solver",
-        descirption: "Implemented A* search, the wisest search algorithm, to create an artificially intelligent program that can solve a 3x3 puzzle.",
+        descirption: "Artificially intelligent program, using A* search, that can solve 3x3 sliding tile puzzles.",
         languages: ["C++"],
         tags: ["AI"],
         pictureLink: SlidingPuzzle,
@@ -62,7 +62,7 @@ class Portfolio extends React.Component {
       },
       {
         title: "Simple Ray Tracer",
-        descirption: "A simple ray tracer written in C++",
+        descirption: "A basic ray tracer created with OpenGL.",
         languages: ["C++"],
         tags: ["Graphics"],
         pictureLink: RayTracer,
@@ -70,7 +70,7 @@ class Portfolio extends React.Component {
       },
       {
         title: "MiniGL",
-        descirption: "A simplified 3D rendering pipeline written in C++.",
+        descirption: "A simplified 3D rendering pipeline created with OpenGl.",
         languages: ["C++"],
         tags: ["Graphics"],
         pictureLink: miniGL,
@@ -78,7 +78,7 @@ class Portfolio extends React.Component {
       },
       {
         title: "rshell",
-        descirption: "A shell terminal writtin in C++",
+        descirption: "A custom shell terminal writtin in C++",
         languages: ["C++"],
         tags: ["OS"],
         pictureLink: rshell,

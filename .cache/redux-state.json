@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2625b399d2277b4646b0e0161c268862",
+        "contentDigest": "6273d56fd769b6d5905e35aee9393910",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -766,12 +766,12 @@
       "host": "localhost",
       "pathPrefix": "/rboshae.github.io",
       "polyfill": true,
-      "buildTime": "2018-08-14T07:47:48.554Z",
+      "buildTime": "2018-08-14T08:23:40.436Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e072c95e5aba7b4d0efcd8b1813db58d",
+        "contentDigest": "13acb8d6fc8540e57d1a0ed6681fff1c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -869,7 +869,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6cca7bdf3f1ab54d4b8cc73ff6d85bf4",
+        "contentDigest": "52d58c567be77100f81d4cbb4c83e72d",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -880,10 +880,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-08-11T09:23:02.222Z",
-      "accessTime": "2018-08-13T22:54:08.813Z",
-      "changeTime": "2018-08-11T09:23:02.222Z",
-      "birthTime": "2018-08-11T09:23:02.222Z",
+      "modifiedTime": "2018-08-14T08:09:42.829Z",
+      "accessTime": "2018-08-14T08:09:42.841Z",
+      "changeTime": "2018-08-14T08:09:42.829Z",
+      "birthTime": "2018-08-14T08:09:42.829Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src",
       "base": "components",
@@ -899,14 +899,14 @@
       "blksize": 4096,
       "ino": 2135202,
       "blocks": 8,
-      "atimeMs": 1534200848813.0613,
-      "mtimeMs": 1533979382222.1785,
-      "ctimeMs": 1533979382222.1785,
-      "birthtimeMs": 1533979382222.1785,
-      "atime": "2018-08-13T22:54:08.813Z",
-      "mtime": "2018-08-11T09:23:02.222Z",
-      "ctime": "2018-08-11T09:23:02.222Z",
-      "birthtime": "2018-08-11T09:23:02.222Z"
+      "atimeMs": 1534234182840.744,
+      "mtimeMs": 1534234182828.7441,
+      "ctimeMs": 1534234182828.7441,
+      "birthtimeMs": 1534234182828.7441,
+      "atime": "2018-08-14T08:09:42.841Z",
+      "mtime": "2018-08-14T08:09:42.829Z",
+      "ctime": "2018-08-14T08:09:42.829Z",
+      "birthtime": "2018-08-14T08:09:42.829Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/layouts absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/layouts absPath of file",
@@ -6863,295 +6863,6 @@
         "slug": "/2017-11-25-playing-with-react/"
       }
     },
-    "SitePage /2017-06-23-rick-boshae-site-launched/": {
-      "layout": "index",
-      "jsonName": "2017-06-23-rick-boshae-site-launched.json",
-      "internalComponentName": "Component20170623RickBoshaeSiteLaunched",
-      "path": "/2017-06-23-rick-boshae-site-launched/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-06-23-rick-boshae-site-launched/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-06-23-rick-boshae-site-launched/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a83bcbbc1ab552b4c2f039253beae6ff",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2017-06-26-rick-boshae-first-steps-into-web-development/": {
-      "layout": "index",
-      "jsonName": "2017-06-26-rick-boshae-first-steps-into-web-development.json",
-      "internalComponentName": "Component20170626RickBoshaeFirstStepsIntoWebDevelopment",
-      "path": "/2017-06-26-rick-boshae-first-steps-into-web-development/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-06-26-rick-boshae-first-steps-into-web-development/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-06-26-rick-boshae-first-steps-into-web-development/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d9dfcf4dbbca456f47849bc02291cead",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2017-06-30-rick-boshae-android-css-project/": {
-      "layout": "index",
-      "jsonName": "2017-06-30-rick-boshae-android-css-project.json",
-      "internalComponentName": "Component20170630RickBoshaeAndroidCssProject",
-      "path": "/2017-06-30-rick-boshae-android-css-project/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-06-30-rick-boshae-android-css-project/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-06-30-rick-boshae-android-css-project/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "223fe6980f2c2ffe5c0f1f4b0ddbfec6",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2017-07-10-rick-boshae-google-homepage-project/": {
-      "layout": "index",
-      "jsonName": "2017-07-10-rick-boshae-google-homepage-project.json",
-      "internalComponentName": "Component20170710RickBoshaeGoogleHomepageProject",
-      "path": "/2017-07-10-rick-boshae-google-homepage-project/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-07-10-rick-boshae-google-homepage-project/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-07-10-rick-boshae-google-homepage-project/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5b8a9bd8652843e4c5b237507fea412f",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2017-07-24-rick-boshae-learning-javascript/": {
-      "layout": "index",
-      "jsonName": "2017-07-24-rick-boshae-learning-javascript.json",
-      "internalComponentName": "Component20170724RickBoshaeLearningJavascript",
-      "path": "/2017-07-24-rick-boshae-learning-javascript/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-07-24-rick-boshae-learning-javascript/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-07-24-rick-boshae-learning-javascript/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "063fee6aaa751812b7211f8db9ba6723",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/": {
-      "layout": "index",
-      "jsonName": "2017-07-31-rick-boshae-j-query-interactive-slider-copy.json",
-      "internalComponentName": "Component20170731RickBoshaeJQueryInteractiveSliderCopy",
-      "path": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7df12fccff89c338eff6247fed128e1d",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2017-08-04-rick-boshae-etch-a-sketch/": {
-      "layout": "index",
-      "jsonName": "2017-08-04-rick-boshae-etch-a-sketch.json",
-      "internalComponentName": "Component20170804RickBoshaeEtchASketch",
-      "path": "/2017-08-04-rick-boshae-etch-a-sketch/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-08-04-rick-boshae-etch-a-sketch/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-08-04-rick-boshae-etch-a-sketch/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "242031d42ab4356feefeb8143c19bc39",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2017-11-25-playing-with-react/": {
-      "layout": "index",
-      "jsonName": "2017-11-25-playing-with-react.json",
-      "internalComponentName": "Component20171125PlayingWithReact",
-      "path": "/2017-11-25-playing-with-react/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/2017-11-25-playing-with-react/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
-      "id": "SitePage /2017-11-25-playing-with-react/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "faed6ead1c64aadb4e88bb585bdce6c3",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d0930bd683fa5d9959cff99aea9561df",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/": {
-      "layout": "index",
-      "jsonName": "blog.json",
-      "internalComponentName": "ComponentBlog",
-      "path": "/blog/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js",
-      "componentChunkName": "component---src-pages-blog-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js",
-      "id": "SitePage /blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ad79d163412306b58a1c269b228a5c95",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b94f6915f8d0ac558d580c315ae3c889",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /my-files/": {
-      "layout": "index",
-      "jsonName": "my-files.json",
-      "internalComponentName": "ComponentMyFiles",
-      "path": "/my-files/",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/my-files.js",
-      "componentChunkName": "component---src-pages-my-files-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/my-files.js",
-      "id": "SitePage /my-files/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2522aadf18d445e612cf7eb4af6ea9ed",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "319bcc6d25c4d1f1e28b91763bddb117",
-        "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components/Honors.js absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components/Honors.js absPath of file",
       "children": [],
@@ -7202,7 +6913,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6ab95d19484f6ebfffbcf799a3771a31",
+        "contentDigest": "bc8a5d504a720c648e7cfa46385a3b9c",
         "mediaType": "application/javascript",
         "type": "File",
         "description": "File \"src/components/Portfolio.js\"",
@@ -7212,12 +6923,12 @@
       "absolutePath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components/Portfolio.js",
       "relativePath": "components/Portfolio.js",
       "extension": "js",
-      "size": 5566,
-      "prettySize": "5.57 kB",
-      "modifiedTime": "2018-08-14T08:07:49.575Z",
-      "accessTime": "2018-08-14T08:07:05.460Z",
-      "changeTime": "2018-08-14T08:07:49.575Z",
-      "birthTime": "2018-08-14T08:07:49.575Z",
+      "size": 5472,
+      "prettySize": "5.47 kB",
+      "modifiedTime": "2018-08-14T08:50:54.798Z",
+      "accessTime": "2018-08-14T08:50:22.963Z",
+      "changeTime": "2018-08-14T08:50:54.798Z",
+      "birthTime": "2018-08-14T08:50:54.798Z",
       "root": "/",
       "dir": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components",
       "base": "Portfolio.js",
@@ -7233,14 +6944,14 @@
       "blksize": 4096,
       "ino": 2135203,
       "blocks": 32,
-      "atimeMs": 1534234025460.107,
-      "mtimeMs": 1534234069575.1633,
-      "ctimeMs": 1534234069575.1633,
-      "birthtimeMs": 1534234069575.1633,
-      "atime": "2018-08-14T08:07:05.460Z",
-      "mtime": "2018-08-14T08:07:49.575Z",
-      "ctime": "2018-08-14T08:07:49.575Z",
-      "birthtime": "2018-08-14T08:07:49.575Z"
+      "atimeMs": 1534236622962.896,
+      "mtimeMs": 1534236654798.248,
+      "ctimeMs": 1534236654798.248,
+      "birthtimeMs": 1534236654798.248,
+      "atime": "2018-08-14T08:50:22.963Z",
+      "mtime": "2018-08-14T08:50:54.798Z",
+      "ctime": "2018-08-14T08:50:54.798Z",
+      "birthtime": "2018-08-14T08:50:54.798Z"
     },
     "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components/Tech.js absPath of file": {
       "id": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/components/Tech.js absPath of file",
@@ -7286,6 +6997,295 @@
       "mtime": "2018-08-14T08:09:51.917Z",
       "ctime": "2018-08-14T08:09:51.917Z",
       "birthtime": "2018-08-14T08:09:51.917Z"
+    },
+    "SitePage /2017-06-23-rick-boshae-site-launched/": {
+      "layout": "index",
+      "jsonName": "2017-06-23-rick-boshae-site-launched.json",
+      "internalComponentName": "Component20170623RickBoshaeSiteLaunched",
+      "path": "/2017-06-23-rick-boshae-site-launched/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-06-23-rick-boshae-site-launched/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-06-23-rick-boshae-site-launched/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "43137da795f0b1b53588b3546e99e4b3",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2017-06-26-rick-boshae-first-steps-into-web-development/": {
+      "layout": "index",
+      "jsonName": "2017-06-26-rick-boshae-first-steps-into-web-development.json",
+      "internalComponentName": "Component20170626RickBoshaeFirstStepsIntoWebDevelopment",
+      "path": "/2017-06-26-rick-boshae-first-steps-into-web-development/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-06-26-rick-boshae-first-steps-into-web-development/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-06-26-rick-boshae-first-steps-into-web-development/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "646e699152c79fb0c17bc23ebb4843c0",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2017-06-30-rick-boshae-android-css-project/": {
+      "layout": "index",
+      "jsonName": "2017-06-30-rick-boshae-android-css-project.json",
+      "internalComponentName": "Component20170630RickBoshaeAndroidCssProject",
+      "path": "/2017-06-30-rick-boshae-android-css-project/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-06-30-rick-boshae-android-css-project/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-06-30-rick-boshae-android-css-project/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cc274470df5a4ea50efafab752057dfd",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2017-07-10-rick-boshae-google-homepage-project/": {
+      "layout": "index",
+      "jsonName": "2017-07-10-rick-boshae-google-homepage-project.json",
+      "internalComponentName": "Component20170710RickBoshaeGoogleHomepageProject",
+      "path": "/2017-07-10-rick-boshae-google-homepage-project/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-07-10-rick-boshae-google-homepage-project/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-07-10-rick-boshae-google-homepage-project/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3ae812fee7366e83c929fec84caa05b5",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2017-07-24-rick-boshae-learning-javascript/": {
+      "layout": "index",
+      "jsonName": "2017-07-24-rick-boshae-learning-javascript.json",
+      "internalComponentName": "Component20170724RickBoshaeLearningJavascript",
+      "path": "/2017-07-24-rick-boshae-learning-javascript/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-07-24-rick-boshae-learning-javascript/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-07-24-rick-boshae-learning-javascript/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "90875df06440538443a01edeb16f95bf",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/": {
+      "layout": "index",
+      "jsonName": "2017-07-31-rick-boshae-j-query-interactive-slider-copy.json",
+      "internalComponentName": "Component20170731RickBoshaeJQueryInteractiveSliderCopy",
+      "path": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0c5df1df31a54329ad69a93649c2b6bd",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2017-08-04-rick-boshae-etch-a-sketch/": {
+      "layout": "index",
+      "jsonName": "2017-08-04-rick-boshae-etch-a-sketch.json",
+      "internalComponentName": "Component20170804RickBoshaeEtchASketch",
+      "path": "/2017-08-04-rick-boshae-etch-a-sketch/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-08-04-rick-boshae-etch-a-sketch/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-08-04-rick-boshae-etch-a-sketch/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "be4763151e8352a709cf12ef7fb5d6dd",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2017-11-25-playing-with-react/": {
+      "layout": "index",
+      "jsonName": "2017-11-25-playing-with-react.json",
+      "internalComponentName": "Component20171125PlayingWithReact",
+      "path": "/2017-11-25-playing-with-react/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/2017-11-25-playing-with-react/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js",
+      "id": "SitePage /2017-11-25-playing-with-react/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da928149b76fa11f9b58503230734a84",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "efab0364b73c883aee2ad15c41dcded4",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "layout": "index",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "01482fb9f1de168a5af29ce525eb7224",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ff5d9e9a8d1d80f19125ab450437ce0c",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-files/": {
+      "layout": "index",
+      "jsonName": "my-files.json",
+      "internalComponentName": "ComponentMyFiles",
+      "path": "/my-files/",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/my-files.js",
+      "componentChunkName": "component---src-pages-my-files-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/my-files.js",
+      "id": "SitePage /my-files/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "05656785352ee86bd67d88710f0eb304",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "599b2a10734d29cbbaf97d8fc59891b3",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
