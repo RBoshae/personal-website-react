@@ -4,12 +4,13 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
- const path = require(`path`);
+const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   const { createNodeField } = boundActionCreators
   if (node.internal.type === `MarkdownRemark`) {
+    console.log(node.internal.type);
     const slug = createFilePath({ node, getNode, basePath: `pages` })
     createNodeField({
       node,
@@ -21,6 +22,7 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
+
   return new Promise((resolve, reject) => {
     graphql(`
       {
@@ -36,14 +38,26 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       }
     `).then(result => {
       result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-        createPage({
-          path: node.fields.slug,
-          component: path.resolve(`./src/templates/blog-post.js`),
-          context: {
-            // Data passed to context is available in page queries as GraphQL variables.
-            slug: node.fields.slug,
-          },
-        })
+        console.log('Here',node.fields.slug.charAt(1));
+        if(node.fields.slug.charAt(1) === '2') {
+          createPage({
+            path: node.fields.slug,
+            component: path.resolve(`./src/templates/blog-post.js`),
+            context: {
+              // Data passed to context is available in page queries as GraphQL variables.
+              slug: node.fields.slug,
+            },
+          })
+        } else {
+          createPage({
+            path: node.fields.slug,
+            component: path.resolve(`./src/templates/project-post.js`),
+            context: {
+              // Data passed to context is available in page queries as GraphQL variables.
+              slug: node.fields.slug,
+            },
+          })
+        }
       })
       resolve()
     })

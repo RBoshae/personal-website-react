@@ -35,6 +35,7 @@ class Portfolio extends React.Component {
         descirption: "A collaborative tool for managing projects.",
         languages: ["React", "HTML", "CSS", "JavaScript"],
         pictureLink: Huddle,
+        projectLink: "https://github.com/RBoshae/ReflexManagment",
         lastUpdate: "Nov 25, 2017"
       },
       {
@@ -42,6 +43,7 @@ class Portfolio extends React.Component {
         descirption: "The good ol' Atari game reinvented. Every bit was hand wired and programmed from scratch. The best part - reverse engineering the Nintendo controller.",
         languages: ["C", "Embedded Systems"],
         pictureLink: Breakout,
+        projectLink: "https://github.com/RBoshae/Breakout",
         lastUpdate: "June 2017"
       },
       {
@@ -50,6 +52,7 @@ class Portfolio extends React.Component {
         languages: ["C++"],
         tags: ["Machine Learning"],
         pictureLink: FeatureSelectionFromNN,
+        projectLink: "https://github.com/RBoshae/feature-selection-with-nearest-neighbor",
         lastUpdate: "Nov 2016"
       },
       {
@@ -58,6 +61,7 @@ class Portfolio extends React.Component {
         languages: ["C++"],
         tags: ["AI"],
         pictureLink: SlidingPuzzle,
+        projectLink: "https://github.com/RBoshae/Breakout",
         lastUpdate: "Feb 21, 2016"
       },
       {
@@ -66,6 +70,7 @@ class Portfolio extends React.Component {
         languages: ["C++"],
         tags: ["Graphics"],
         pictureLink: RayTracer,
+        projectLink: "https://github.com/RBoshae/BasicRayTracer",
         lastUpdate: "Dec 21, 2017"
       },
       {
@@ -74,6 +79,7 @@ class Portfolio extends React.Component {
         languages: ["C++"],
         tags: ["Graphics"],
         pictureLink: miniGL,
+        projectLink: "https://github.com/RBoshae/miniGL",
         lastUpdate: "Nov 28, 2017"
       },
       {
@@ -82,6 +88,7 @@ class Portfolio extends React.Component {
         languages: ["C++"],
         tags: ["OS"],
         pictureLink: rshell,
+        projectLink: "https://github.com/RBoshae/rshell",
         lastUpdate: "Dec 2, 2017"
       },
       {
@@ -90,6 +97,7 @@ class Portfolio extends React.Component {
         languages: ["Bootstrap", "HTML", "CSS" , "JavaScript", "jQuery"],
         tags: ["WebDev"],
         pictureLink: personalWebsitev1,
+        projectLink: "https://github.com/RBoshae/Personal-Website-1",
         lastUpdate: "Jan 3, 2017"
       },
       {
@@ -98,6 +106,7 @@ class Portfolio extends React.Component {
         languages: ["HTML", "CSS" , "JavaScript", "Reactjs"],
         tags: ["WebDev"],
         pictureLink: "",
+        projectLink: "https://rboshae.github.io/",
         lastUpdate: "Jul 26, 2018"
       },
     ]});
