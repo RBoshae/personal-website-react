@@ -27,7 +27,7 @@ class ProjectItem extends React.Component {
       <div className="columns project-item">
         <div className="item-wrap">
           <div style={projectItemStyle} >
-            <Link to={this.props.project.projectLink}>
+            <a href={this.props.project.projectLink}>
               <div
                 style={{
                   position: 'relative',
@@ -65,7 +65,7 @@ class ProjectItem extends React.Component {
                 <p style={pStyle}>{this.props.project.languages}</p>
                 <p>{this.props.project.descirption}</p>
               </div>
-            </Link>
+            </a>
           </div>
         </div>
       </div>
