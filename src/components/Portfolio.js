@@ -61,7 +61,7 @@ class Portfolio extends React.Component {
         languages: ["C++"],
         tags: ["AI"],
         pictureLink: SlidingPuzzle,
-        projectLink: "https://github.com/RBoshae/Breakout",
+        projectLink: "https://github.com/RBoshae/Puzzle_Solver",
         lastUpdate: "Feb 21, 2016"
       },
       {
