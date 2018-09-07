@@ -141,7 +141,6 @@ class Portfolio extends React.Component {
     }
 
     // Transform array of projects to a table a of projects
-
     // Start with creating rows
     let projectItemRows = projectItems.reduce(function (rows, projectItem, i) {
       let rowIndex = Math.floor(i/3);
@@ -153,7 +152,6 @@ class Portfolio extends React.Component {
       return rows;
     }, [])
 
-    console.log('Hello', projectItemRows);
     // create table
     let projectItemTable
     if(projectItemRows){
