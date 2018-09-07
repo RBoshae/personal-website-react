@@ -62,7 +62,7 @@ class ProjectItem extends React.Component {
                             paddingLeft: ".5rem",
                             paddingRight: ".5rem",
                             color: "black"}}>
-                <p style={pStyle}>{this.props.project.languages}</p>
+                <p style={pStyle}>{this.props.project.languages.join(", ")}</p>
                 <p>{this.props.project.descirption}</p>
               </div>
             </a>
