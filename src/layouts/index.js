@@ -4,6 +4,8 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link';
 import Navbar from '../components/Navbar'
 import './index.css'
+import icon32 from '../assets/images/logo/PersonalWebLogo.png'
+
 
 const Layout = ({ children, data }) => (
   <div>
@@ -11,8 +13,11 @@ const Layout = ({ children, data }) => (
       title={data.site.siteMetadata.title}
       meta={[
         { name: 'description', content: 'Portfolio' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'keywords', content: 'webdev, software engineer, gatsbyjs, reactjs, frontend, graphql, design' },
       ]}
+      link={[
+      { rel: 'shortcut icon', type: 'image/png', href: `${icon32}` }
+  ]}
     />
 
     <div

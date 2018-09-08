@@ -70,6 +70,13 @@
         "path": "/Huddle/"
     },
     {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
         "componentChunkName": "component---src-pages-404-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -103,5 +110,19 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "2018-09-08-learning-java-script-the-better-way.json",
+        "path": "/2018-09-08-Learning-JavaScript-The-Better-Way/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "2018-09-08-learning-java-script-heres-my-recommendation.json",
+        "path": "/2018-09-08-Learning-JavaScript-Heres-My-Recommendation/"
     }
 ]

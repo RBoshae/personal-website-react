@@ -9,6 +9,7 @@ exports.layouts = {
 exports.components = {
   "component---src-templates-blog-post-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/blog-post.js")),
   "component---src-templates-project-post-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/templates/project-post.js")),
+  "component---cache-dev-404-page-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/404.js")),
   "component---src-pages-blog-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/blog.js")),
   "component---src-pages-index-js": preferDefault(require("/home/rick/MyPrograms/WebDev/rboshae.github.io/src/pages/index.js")),
@@ -27,9 +28,12 @@ exports.json = {
   "2017-11-25-playing-with-react.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/2017-11-25-playing-with-react.json"),
   "2018-08-14-exported-website-to-gatsby.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/2018-08-14-exported-website-to-gatsby.json"),
   "huddle.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/huddle.json"),
+  "dev-404-page.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/dev-404-page.json"),
   "404.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/404.json"),
   "blog.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/blog.json"),
   "index.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/index.json"),
   "my-files.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/my-files.json"),
-  "404-html.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/404-html.json")
+  "404-html.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/404-html.json"),
+  "2018-09-08-learning-java-script-the-better-way.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/2018-09-08-learning-java-script-the-better-way.json"),
+  "2018-09-08-learning-java-script-heres-my-recommendation.json": require("/home/rick/MyPrograms/WebDev/rboshae.github.io/.cache/json/2018-09-08-learning-java-script-heres-my-recommendation.json")
 }
