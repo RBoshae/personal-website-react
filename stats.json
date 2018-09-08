@@ -5,20 +5,24 @@
       "path---2017-06-23-rick-boshae-site-launched-fe8596a6a775d7933c2b.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d39e923681e5bf8647c3.js",
-      "component---src-pages-index-js-d39e923681e5bf8647c3.js.map"
+      "component---src-pages-index-js-7bbcc72f8fddc1d047b6.js",
+      "component---src-pages-index-js-7bbcc72f8fddc1d047b6.js.map"
     ],
     "path---2017-07-31-rick-boshae-j-query-interactive-slider-copy": [
       "path---2017-07-31-rick-boshae-j-query-interactive-slider-copy-ee22ff48e20e435eb675.js",
       "path---2017-07-31-rick-boshae-j-query-interactive-slider-copy-ee22ff48e20e435eb675.js.map"
+    ],
+    "path---2018-09-08-learning-java-script-heres-my-recommendation": [
+      "path---2018-09-08-learning-java-script-heres-my-recommendation-4d0a423fd9209a204d26.js",
+      "path---2018-09-08-learning-java-script-heres-my-recommendation-4d0a423fd9209a204d26.js.map"
     ],
     "path---2017-07-24-rick-boshae-learning-javascript": [
       "path---2017-07-24-rick-boshae-learning-javascript-9f2fb0e6bad84c2dffcb.js",
       "path---2017-07-24-rick-boshae-learning-javascript-9f2fb0e6bad84c2dffcb.js.map"
     ],
     "path---blog": [
-      "path---blog-0eb1b785963703ade270.js",
-      "path---blog-0eb1b785963703ade270.js.map"
+      "path---blog-595baeaa65c67bd02bc4.js",
+      "path---blog-595baeaa65c67bd02bc4.js.map"
     ],
     "path---2017-06-30-rick-boshae-android-css-project": [
       "path---2017-06-30-rick-boshae-android-css-project-48254df6f60c80b16ade.js",
@@ -29,8 +33,8 @@
       "path----b7dc6b551012e89df8fe.js.map"
     ],
     "path---huddle": [
-      "path---huddle-321e53c47499cfe338f0.js",
-      "path---huddle-321e53c47499cfe338f0.js.map"
+      "path---huddle-926d156fc86148e9f0c8.js",
+      "path---huddle-926d156fc86148e9f0c8.js.map"
     ],
     "path---2017-06-26-rick-boshae-first-steps-into-web-development": [
       "path---2017-06-26-rick-boshae-first-steps-into-web-development-25d0b7cf9bc14c9280a5.js",
@@ -41,8 +45,8 @@
       "component---src-templates-blog-post-js-8f892849633af9e7202c.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1aad46e6c27e7dc4ac6a.js",
-      "component---src-layouts-index-js-1aad46e6c27e7dc4ac6a.js.map"
+      "component---src-layouts-index-js-a704139c7d94abce69a1.js",
+      "component---src-layouts-index-js-a704139c7d94abce69a1.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -57,8 +61,8 @@
       "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
     ],
     "path---my-files": [
-      "path---my-files-e0e92f4d8bcc4b578492.js",
-      "path---my-files-e0e92f4d8bcc4b578492.js.map"
+      "path---my-files-65d0cc22b6e96764bb51.js",
+      "path---my-files-65d0cc22b6e96764bb51.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -93,9 +97,9 @@
       "component---src-pages-blog-js-4b9ace603b3a0cc63757.js.map"
     ],
     "app": [
-      "app-a0aa391558333238189c.js",
+      "app-a31fa705f28418a3977d.js",
       "build-js-styles.css",
-      "app-a0aa391558333238189c.js.map",
+      "app-a31fa705f28418a3977d.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
