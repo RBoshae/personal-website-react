@@ -17,13 +17,6 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "2017-06-30-rick-boshae-android-css-project.json",
-        "path": "/2017-06-30-rick-boshae-android-css-project/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "2017-07-10-rick-boshae-google-homepage-project.json",
         "path": "/2017-07-10-rick-boshae-google-homepage-project/"
     },
@@ -38,15 +31,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "2017-07-31-rick-boshae-j-query-interactive-slider-copy.json",
-        "path": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/"
+        "jsonName": "2017-06-30-rick-boshae-android-css-project.json",
+        "path": "/2017-06-30-rick-boshae-android-css-project/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "2017-08-04-rick-boshae-etch-a-sketch.json",
-        "path": "/2017-08-04-rick-boshae-etch-a-sketch/"
+        "jsonName": "2017-07-31-rick-boshae-j-query-interactive-slider-copy.json",
+        "path": "/2017-07-31-rick-boshae-jQuery-Interactive-Slider - Copy/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -59,15 +52,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "2018-08-14-exported-website-to-gatsby.json",
-        "path": "/2018-08-14-exported-website-to-gatsby/"
+        "jsonName": "2018-09-08-learning-java-script-heres-my-recommendation.json",
+        "path": "/2018-09-08-Learning-JavaScript-Heres-My-Recommendation/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "2018-09-08-learning-java-script-heres-my-recommendation.json",
-        "path": "/2018-09-08-Learning-JavaScript-Heres-My-Recommendation/"
+        "jsonName": "2018-08-14-exported-website-to-gatsby.json",
+        "path": "/2018-08-14-exported-website-to-gatsby/"
     },
     {
         "componentChunkName": "component---src-templates-project-post-js",
@@ -75,6 +68,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "huddle.json",
         "path": "/Huddle/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "2017-08-04-rick-boshae-etch-a-sketch.json",
+        "path": "/2017-08-04-rick-boshae-etch-a-sketch/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
